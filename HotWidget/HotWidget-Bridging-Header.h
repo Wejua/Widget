@@ -3,6 +3,5 @@
 //
 
 #import "TalkingDataSDK.h"
-#import "CPUAndMemoryUsage.h"
 #import "MonitorFlow.h"
 #import "Reachability.h"

@@ -30,7 +30,6 @@
 		4817564129C848C600FBFA09 /* DashBoardSmallOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4817563F29C848C200FBFA09 /* DashBoardSmallOne.swift */; };
 		481F11AA2A25A14B00EED071 /* AuthorizationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481F11A92A25A14B00EED071 /* AuthorizationsView.swift */; };
 		48202A802A2C9977007C6293 /* WidgetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3960A2A2C950800DB5316 /* WidgetModel.swift */; };
-		482633522A56BFE7006AC2D9 /* CPUAndMemoryUsage.m in Sources */ = {isa = PBXBuildFile; fileRef = 482633512A56BFE7006AC2D9 /* CPUAndMemoryUsage.m */; };
 		48467E4C29D1D7FE0037D8CC /* ClipImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48467E4B29D1D7FE0037D8CC /* ClipImageView.swift */; };
 		486840482A550C6800FC3C2D /* ControlPanelDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 486840472A550C6700FC3C2D /* ControlPanelDetail.swift */; };
 		4877868529C9A9F60046A149 /* TestJson2 in Resources */ = {isa = PBXBuildFile; fileRef = 4877868429C9A9F50046A149 /* TestJson2 */; };
@@ -245,8 +244,6 @@
 		480C95A92A1CAD2A00C846C8 /* ThemeAppIconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeAppIconsView.swift; sourceTree = "<group>"; };
 		4817563F29C848C200FBFA09 /* DashBoardSmallOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardSmallOne.swift; sourceTree = "<group>"; };
 		481F11A92A25A14B00EED071 /* AuthorizationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationsView.swift; sourceTree = "<group>"; };
-		482633502A56BFE7006AC2D9 /* CPUAndMemoryUsage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPUAndMemoryUsage.h; sourceTree = "<group>"; };
-		482633512A56BFE7006AC2D9 /* CPUAndMemoryUsage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CPUAndMemoryUsage.m; sourceTree = "<group>"; };
 		482633612A56E67B006AC2D9 /* HotWidgets-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HotWidgets-Bridging-Header.h"; sourceTree = "<group>"; };
 		48467E4B29D1D7FE0037D8CC /* ClipImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipImageView.swift; sourceTree = "<group>"; };
 		486840472A550C6700FC3C2D /* ControlPanelDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlPanelDetail.swift; sourceTree = "<group>"; };
@@ -643,8 +640,6 @@
 				847A3CD82944D50700D2AA49 /* Resources */,
 				847A3CC52944CCE400D2AA49 /* Preview Content */,
 				48917FF22A4C2F86007728FE /* HotWidget-Bridging-Header.h */,
-				482633502A56BFE7006AC2D9 /* CPUAndMemoryUsage.h */,
-				482633512A56BFE7006AC2D9 /* CPUAndMemoryUsage.m */,
 				48B6E4F32A586830001FEE1F /* MonitorFlowCode */,
 			);
 			path = HotWidget;
@@ -1082,7 +1077,6 @@
 				480C958D2A1C8E3C00C846C8 /* ThemeDetailView.swift in Sources */,
 				48F78DFE29AA457E004A06E4 /* HotWidgets.intentdefinition in Sources */,
 				48FD7BDF29BD936500099BBA /* CalendarSmallTwo.swift in Sources */,
-				482633522A56BFE7006AC2D9 /* CPUAndMemoryUsage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

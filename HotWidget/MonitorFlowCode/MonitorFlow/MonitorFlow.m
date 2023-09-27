@@ -95,8 +95,8 @@
             break;
         case ReachableViaWWAN:
         {
-            float wwanSend = monitor.wwanSend - self.tempWWANReceived;
-            float wwanReceived = monitor.wifiReceived - self.tempWWANSend;
+//            float wwanSend = monitor.wwanSend - self.tempWWANReceived;
+//            float wwanReceived = monitor.wifiReceived - self.tempWWANSend;
 //            NSLog(@"wwan上传速度：%@",[NSString stringWithFormat:@"%.0f KB/s",wwanSend]);
 //            NSLog(@"wwan下载速度：%@",[NSString stringWithFormat:@"%.0f KB/s",wwanReceived]);
         }
