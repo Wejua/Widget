@@ -1,0 +1,144 @@
+{
+    "code": 0,
+    "msg": "success",
+    "time": "1689656348",
+    "data":
+    [
+        {
+            "id": 8,
+            "name": "面板",
+            "weigh": 8,
+            "list":
+            [
+                {
+                    "id": 19,
+                    "classify_id": 8,
+                    "name": "面板3",
+                    "icon": "/uploads/20230713/ea27b6f2d1c36d528d6ae388ec97290b.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "时钟",
+            "weigh": 7,
+            "list":
+            [
+                {
+                    "id": 17,
+                    "classify_id": 7,
+                    "name": "时钟1",
+                    "icon": "/uploads/20230713/ea27b6f2d1c36d528d6ae388ec97290b.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "天气",
+            "weigh": 6,
+            "list":
+            [
+                {
+                    "id": 15,
+                    "classify_id": 6,
+                    "name": "天气1",
+                    "icon": "/uploads/20230713/df4e102660a9735aab598a505edd8d6b.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "日历",
+            "weigh": 5,
+            "list":
+            [
+                {
+                    "id": 12,
+                    "classify_id": 5,
+                    "name": "日历1",
+                    "icon": "/uploads/20230713/5c38295efd40fe9d14ad0283d7c81c6e.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "仪表盘",
+            "weigh": 4,
+            "list":
+            [
+                {
+                    "id": 9,
+                    "classify_id": 4,
+                    "name": "仪表盘1",
+                    "icon": "/uploads/20230713/abfcbe190d80d772e5b3e8a2759963db.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "推荐",
+            "weigh": 3,
+            "list":
+            [
+                {
+                    "id": 3,
+                    "classify_id": 1,
+                    "name": "微博",
+                    "icon": "/uploads/20230713/1d1b09d66e8b9ffd4d53435767b19f31.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "快捷",
+            "weigh": 2,
+            "list":
+            [
+                {
+                    "id": 2,
+                    "classify_id": 3,
+                    "name": "微信扫一扫",
+                    "icon": "/uploads/20220919/1b2f97b2f7f59f0948aba7da2088dbf3.jpeg",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "新闻",
+            "weigh": 1,
+            "list":
+            [
+                {
+                    "id": 7,
+                    "classify_id": 2,
+                    "name": "微博热搜",
+                    "icon": "/uploads/20230713/1d1b09d66e8b9ffd4d53435767b19f31.png",
+                    "is_free": "0",
+                    "status_text": "",
+                    "is_free_text": "Is_free 0"
+                }
+            ]
+        }
+    ]
+}

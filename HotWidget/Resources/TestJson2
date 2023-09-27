@@ -1,0 +1,283 @@
+{
+  "code": 0,
+  "msg": "success",
+  "time": "时间戳",
+  "data": [
+    {
+      "id": "1",
+      "name": "推荐",
+      "list": [
+        {
+          "id": "CalendarSmallOne",
+          "name": "日历1",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "CalendarSmallTwo",
+          "name": "日历2",
+          "icon": "组件图标",
+          "is_free": "1"
+        },
+        {
+          "id": "CalendarMediumOne",
+          "name": "日历3",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "CalendarMediumTwo",
+          "name": "日历4",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "CalendarLargeOne",
+          "name": "日历5",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "CalendarLargeTwo",
+          "name": "日历6",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "快捷",
+      "list": [
+        {
+          "id": "ShortCutsLargeOne",
+          "name": "快捷1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeChatScanSmall",
+          "name": "微信扫一扫",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "ShortCutsMediumOne",
+          "name": "快捷2",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "新闻",
+      "list": [
+        {
+          "id": "WeiBoReSouSmallOne",
+          "name": "微博热搜1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeiBoReSouMediumOne",
+          "name": "微博热搜2",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeiBoReSouMediumTwo",
+          "name": "微博热搜3",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeiBoReSouSmallTwo",
+          "name": "微博热搜4",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeiBoReSouLargeOne",
+          "name": "微博热搜5",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "仪表盘",
+      "list": [
+        {
+          "id": "DashBoardSmallOne",
+          "name": "仪表盘1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费",
+        },
+        {
+          "id": "DashBoardMediumOne",
+          "name": "仪表盘9",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardLargeOne",
+          "name": "仪表盘2",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardSmallTwo",
+          "name": "仪表盘3",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardSmallThree",
+          "name": "仪表盘4",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardMediumTwo",
+          "name": "仪表盘5",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardLargeTwo",
+          "name": "仪表盘6",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardMediumThree",
+          "name": "仪表盘7",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DashBoardLargeThree",
+          "name": "仪表盘8",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "日历",
+      "list": [
+        {
+          "id": "CalendarMediumOne",
+          "name": "日历3",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "CalendarLargeOne",
+          "name": "日历4",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "CalendarSmallOne",
+          "name": "日历1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "时钟",
+      "list": [
+        {
+          "id": "DigitalClockSmallOne",
+          "name": "数字时钟1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "DigitalClockMediumOne",
+          "name": "数字时钟2",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "DigitalClockLargeOne",
+          "name": "数字时钟3",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "ClockSmallOne",
+          "name": "圆时钟1",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "ClockMediumOne",
+          "name": "圆时钟1",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "ClockLargeOne",
+          "name": "圆时钟1",
+          "icon": "组件图标",
+          "is_free": "0"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "天气",
+      "list": [
+        {
+          "id": "WeatherSmallOne",
+          "name": "天气1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "WeatherMediumOne",
+          "name": "天气2",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "WeatherLargeOne",
+          "name": "天气3",
+          "icon": "组件图标",
+          "is_free": "0"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "面板",
+      "list": [
+        {
+          "id": "ControlPanelSmallOne",
+          "name": "面板1",
+          "icon": "组件图标",
+          "is_free": "是否收费:0=免费,1=收费"
+        },
+        {
+          "id": "ControlPanelMediumOne",
+          "name": "面板2",
+          "icon": "组件图标",
+          "is_free": "0"
+        },
+        {
+          "id": "ControlPanelLargeOne",
+          "name": "面板3",
+          "icon": "组件图标",
+          "is_free": "0"
+        }
+      ]
+    }
+  ]
+}

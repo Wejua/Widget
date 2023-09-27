@@ -1,0 +1,20 @@
+PODS:
+  - DeviceKit (5.0.0)
+  - SwiftUIPager (2.5.0)
+
+DEPENDENCIES:
+  - DeviceKit (~> 5.0)
+  - SwiftUIPager (~> 2.5.0)
+
+SPEC REPOS:
+  trunk:
+    - DeviceKit
+    - SwiftUIPager
+
+SPEC CHECKSUMS:
+  DeviceKit: 0fd016a2cb67aca17c33dc23171cac270131eb88
+  SwiftUIPager: b314d8923bef0bde743c904bb74fcc7a05fd3422
+
+PODFILE CHECKSUM: 5be07a11909ae48dc68e3636ca93ac0f897e6caf
+
+COCOAPODS: 1.12.1
