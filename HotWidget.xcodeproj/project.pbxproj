@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B860BE82AC4223000C2D93D /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
-		2B860BE92AC4223000C2D93D /* SwiftUITools.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		2B860BEF2AC4264700C2D93D /* libTalkingDataSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BED2AC4264600C2D93D /* libTalkingDataSDK.a */; };
 		3DDF5F9994BE36CAFA8CD282 /* Pods_HotWidgetsExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C778BF6D15046D9740C26F29 /* Pods_HotWidgetsExtension.framework */; };
 		480BC35F29B0AB3A00F4D063 /* WidgetDetailApplyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480BC35E29B0AB3A00F4D063 /* WidgetDetailApplyButton.swift */; };
@@ -100,6 +98,7 @@
 		48C71F5429C2FD2400226547 /* WeiBoReSouMediumOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5229C2FD2400226547 /* WeiBoReSouMediumOne.swift */; };
 		48C71F5629C2FD7100226547 /* WeiBoReSouLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */; };
 		48C71F5729C2FD7100226547 /* WeiBoReSouLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */; };
+		48D11F962AC5ACD900B9E1D9 /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
 		48DDB1092A5E2BE800D482F4 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DDB1082A5E2BE800D482F4 /* API.swift */; };
 		48E59C1D29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
 		48E59C1E29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
@@ -209,17 +208,6 @@
 				4895903329AA0E3200482133 /* HotWidgetsExtension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		48FFBDB82A123A640075E3EF /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				2B860BE92AC4223000C2D93D /* SwiftUITools.framework in Embed Frameworks */,
-			);
-			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -361,7 +349,6 @@
 			files = (
 				48917FF12A4C2C88007728FE /* libz.tbd in Frameworks */,
 				48917FEF2A4C2C7D007728FE /* libc++.tbd in Frameworks */,
-				2B860BE82AC4223000C2D93D /* SwiftUITools.framework in Frameworks */,
 				48917FED2A4C2C64007728FE /* SystemConfiguration.framework in Frameworks */,
 				48917FEB2A4C2C59007728FE /* Security.framework in Frameworks */,
 				48917FE92A4C2C4A007728FE /* CoreTelephony.framework in Frameworks */,
@@ -381,6 +368,7 @@
 			files = (
 				48F78DDD29AA3DDB004A06E4 /* Intents.framework in Frameworks */,
 				91CAD27035515A5727838116 /* Pods_HotWidgetIntentsExtension.framework in Frameworks */,
+				48D11F962AC5ACD900B9E1D9 /* SwiftUITools.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -766,7 +754,6 @@
 				48F2392329AA02B7008F203A /* Frameworks */,
 				48F2392429AA02B7008F203A /* Resources */,
 				4895903629AA0E3200482133 /* Embed Foundation Extensions */,
-				48FFBDB82A123A640075E3EF /* Embed Frameworks */,
 				1FB149C9D35EE100BB5102C8 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
