@@ -43,6 +43,7 @@
 		4881490D2A2B205500831DFB /* ClockMediumOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4881490B2A2B205500831DFB /* ClockMediumOne.swift */; };
 		4881490F2A2B206500831DFB /* ClockLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4881490E2A2B206500831DFB /* ClockLargeOne.swift */; };
 		488149102A2B206500831DFB /* ClockLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4881490E2A2B206500831DFB /* ClockLargeOne.swift */; };
+		48818BD02AC896A0009FFCE9 /* adc.json in Resources */ = {isa = PBXBuildFile; fileRef = 48818BCF2AC8969F009FFCE9 /* adc.json */; };
 		4885FF0629C2A8D400226321 /* WeChatScanSmall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4885FF0529C2A8D400226321 /* WeChatScanSmall.swift */; };
 		4885FF0729C2A8D400226321 /* WeChatScanSmall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4885FF0529C2A8D400226321 /* WeChatScanSmall.swift */; };
 		4885FF0929C2ABE500226321 /* ShortCutsMediumOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4885FF0829C2ABE500226321 /* ShortCutsMediumOne.swift */; };
@@ -244,6 +245,7 @@
 		488149082A2B1FC500831DFB /* WeatherLargeOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherLargeOne.swift; sourceTree = "<group>"; };
 		4881490B2A2B205500831DFB /* ClockMediumOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockMediumOne.swift; sourceTree = "<group>"; };
 		4881490E2A2B206500831DFB /* ClockLargeOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockLargeOne.swift; sourceTree = "<group>"; };
+		48818BCF2AC8969F009FFCE9 /* adc.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = adc.json; sourceTree = "<group>"; };
 		4885FF0529C2A8D400226321 /* WeChatScanSmall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeChatScanSmall.swift; sourceTree = "<group>"; };
 		4885FF0829C2ABE500226321 /* ShortCutsMediumOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortCutsMediumOne.swift; sourceTree = "<group>"; };
 		4885FF1029C2CF2F00226321 /* WeiBoReSouSmallOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeiBoReSouSmallOne.swift; sourceTree = "<group>"; };
@@ -597,6 +599,7 @@
 		847A3CB32944CCE100D2AA49 = {
 			isa = PBXGroup;
 			children = (
+				48818BCF2AC8969F009FFCE9 /* adc.json */,
 				2B860BF02AC4265F00C2D93D /* TalkingDataSDK.h */,
 				2B860BED2AC4264600C2D93D /* libTalkingDataSDK.a */,
 				2B860BE22AC421F100C2D93D /* SwiftUITools.xcodeproj */,
@@ -880,6 +883,7 @@
 				48E59C4929C41190007C03DA /* Assets.xcassets in Resources */,
 				48E59C4A29C4119C007C03DA /* Preview Assets.xcassets in Resources */,
 				480C958B2A1C7C4200C846C8 /* jpg4.jpg in Resources */,
+				48818BD02AC896A0009FFCE9 /* adc.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
