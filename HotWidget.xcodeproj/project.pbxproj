@@ -99,6 +99,7 @@
 		48C71F5629C2FD7100226547 /* WeiBoReSouLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */; };
 		48C71F5729C2FD7100226547 /* WeiBoReSouLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */; };
 		48D11F962AC5ACD900B9E1D9 /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
+		48D11FA02AC5E2F500B9E1D9 /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
 		48DDB1092A5E2BE800D482F4 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DDB1082A5E2BE800D482F4 /* API.swift */; };
 		48E59C1D29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
 		48E59C1E29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
@@ -230,6 +231,7 @@
 		480C958C2A1C8E3C00C846C8 /* ThemeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeDetailView.swift; sourceTree = "<group>"; };
 		480C95A72A1CA1D100C846C8 /* ThemePicturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicturesView.swift; sourceTree = "<group>"; };
 		480C95A92A1CAD2A00C846C8 /* ThemeAppIconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeAppIconsView.swift; sourceTree = "<group>"; };
+		481054DA2AC7D2790010E41F /* HotWidgetIntentsExtensionRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HotWidgetIntentsExtensionRelease.entitlements; sourceTree = "<group>"; };
 		4817563F29C848C200FBFA09 /* DashBoardSmallOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardSmallOne.swift; sourceTree = "<group>"; };
 		481F11A92A25A14B00EED071 /* AuthorizationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationsView.swift; sourceTree = "<group>"; };
 		482633612A56E67B006AC2D9 /* HotWidgets-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HotWidgets-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -378,6 +380,7 @@
 			files = (
 				8452757B29A758A0006626F3 /* SwiftUI.framework in Frameworks */,
 				8452757929A758A0006626F3 /* WidgetKit.framework in Frameworks */,
+				48D11FA02AC5E2F500B9E1D9 /* SwiftUITools.framework in Frameworks */,
 				3DDF5F9994BE36CAFA8CD282 /* Pods_HotWidgetsExtension.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -545,6 +548,7 @@
 		48F78DDE29AA3DDB004A06E4 /* HotWidgetIntentsExtension */ = {
 			isa = PBXGroup;
 			children = (
+				481054DA2AC7D2790010E41F /* HotWidgetIntentsExtensionRelease.entitlements */,
 				48FD7BDB29BD706A00099BBA /* HotWidgetIntentsExtension.entitlements */,
 				48F78DDF29AA3DDB004A06E4 /* IntentHandler.swift */,
 				48F78DE129AA3DDB004A06E4 /* Info.plist */,
@@ -1164,13 +1168,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = HotWidget/Resources/HotWidget.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"HotWidget/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidget/Resources/Info.plist;
@@ -1194,10 +1196,9 @@
 					"$(PROJECT_DIR)",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = Widgeter;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -1220,13 +1221,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = HotWidget/Resources/HotWidget.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"HotWidget/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidget/Resources/Info.plist;
@@ -1250,10 +1249,9 @@
 					"$(PROJECT_DIR)",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = Widgeter;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -1270,11 +1268,9 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = HotWidgetIntentsExtension/HotWidgetIntentsExtension.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidgetIntentsExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HotWidgetIntentsExtension;
@@ -1287,10 +1283,9 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter.HotWidgetIntentsExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz.HotWidgetIntentsExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WidgeterHotWidgetIntentsExtension;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1302,13 +1297,11 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9D1797046009A85AB706C769 /* Pods-HotWidgetIntentsExtension.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = HotWidgetIntentsExtension/HotWidgetIntentsExtension.entitlements;
+				CODE_SIGN_ENTITLEMENTS = HotWidgetIntentsExtension/HotWidgetIntentsExtensionRelease.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidgetIntentsExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HotWidgetIntentsExtension;
@@ -1321,10 +1314,9 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter.HotWidgetIntentsExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz.HotWidgetIntentsExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WidgeterHotWidgetIntentsExtension;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1340,11 +1332,9 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = HotWidgetsExtension.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidgets/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HotWidgets;
@@ -1362,10 +1352,9 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter.HotWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz.HotWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WidgeterHotWidgets;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "HotWidgets/HotWidgets-Bridging-Header.h";
@@ -1382,11 +1371,9 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = HotWidgetsExtension.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 65L344Q3AH;
+				DEVELOPMENT_TEAM = KVX8FV3VE3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HotWidgets/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HotWidgets;
@@ -1404,10 +1391,9 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeter.HotWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = com.emCgC.Widgeterz.HotWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WidgeterHotWidgets;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "HotWidgets/HotWidgets-Bridging-Header.h";

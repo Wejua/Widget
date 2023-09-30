@@ -8,7 +8,7 @@
 	<array/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.w.com.emCgC.Widgeter</string>
+		<string>group.com.hotWidget.appAndWidgetShare</string>
 	</array>
 </dict>
 </plist>
