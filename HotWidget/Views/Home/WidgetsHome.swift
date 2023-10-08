@@ -48,22 +48,22 @@ struct WidgetsHome: View {
     }
     
     func getWidgetList() {
-//        let url = Bundle.main.url(forResource: "widgetList", withExtension: "json")
-//        let jsonData = try? Data(contentsOf: url!)
-//        widgetLists = try? JSONDecoder().decode(WidgetList.self, from: jsonData!)
+        let url = Bundle.main.url(forResource: "widgetList", withExtension: "json")
+        let jsonData = try? Data(contentsOf: url!)
+        widgetLists = try? JSONDecoder().decode(WidgetList.self, from: jsonData!)
         
-        let deviceID = TalkingDataSDK.getDeviceId() ?? ""
-        if Store.shared.token == nil {
-            Task {
-                let token = try await API.login(deviceID: deviceID)
-                widgetLists = try await API.widgetList(token: token)
-            }
-        } else {
-            Task {
-                let refreshed = try await API.refreshToken()
-                widgetLists = try await API.widgetList(token: Store.shared.token!)
-            }
-        }
+//        let deviceID = TalkingDataSDK.getDeviceId() ?? ""
+//        if Store.shared.token == nil {
+//            Task {
+//                let token = try await API.login(deviceID: deviceID)
+//                widgetLists = try await API.widgetList(token: token)
+//            }
+//        } else {
+//            Task {
+//                let refreshed = try await API.refreshToken()
+//                widgetLists = try await API.widgetList(token: Store.shared.token!)
+//            }
+//        }
     }
     
 }
