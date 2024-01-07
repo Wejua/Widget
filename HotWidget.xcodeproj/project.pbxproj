@@ -101,6 +101,295 @@
 		48C71F5729C2FD7100226547 /* WeiBoReSouLargeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */; };
 		48D11F962AC5ACD900B9E1D9 /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
 		48D11FA02AC5E2F500B9E1D9 /* SwiftUITools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B860BE72AC421F100C2D93D /* SwiftUITools.framework */; };
+		48DB5DAC2B491C60004EA55A /* outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C7D2B491C5C004EA55A /* outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg */; };
+		48DB5DAD2B491C60004EA55A /* outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C7E2B491C5C004EA55A /* outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg */; };
+		48DB5DAE2B491C60004EA55A /* outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C7F2B491C5C004EA55A /* outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg */; };
+		48DB5DAF2B491C60004EA55A /* outerSpace_a90091499d6f348955e655f43997633a.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C802B491C5C004EA55A /* outerSpace_a90091499d6f348955e655f43997633a.jpeg */; };
+		48DB5DB02B491C60004EA55A /* outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C812B491C5C004EA55A /* outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg */; };
+		48DB5DB12B491C60004EA55A /* outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C822B491C5C004EA55A /* outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg */; };
+		48DB5DB22B491C60004EA55A /* outerSpace_壁纸.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C832B491C5C004EA55A /* outerSpace_壁纸.jpg */; };
+		48DB5DB32B491C60004EA55A /* outerSpace_d55742a654da14c6cfef0693d410c634.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C842B491C5C004EA55A /* outerSpace_d55742a654da14c6cfef0693d410c634.jpeg */; };
+		48DB5DB42B491C60004EA55A /* outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C852B491C5C004EA55A /* outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg */; };
+		48DB5DB52B491C60004EA55A /* outerSpace_小红书.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C872B491C5C004EA55A /* outerSpace_小红书.jpg */; };
+		48DB5DB62B491C60004EA55A /* outerSpace_QQ音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C882B491C5C004EA55A /* outerSpace_QQ音乐.jpg */; };
+		48DB5DB72B491C60004EA55A /* outerSpace_铁路12306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C892B491C5C004EA55A /* outerSpace_铁路12306.jpg */; };
+		48DB5DB82B491C60004EA55A /* outerSpace_唯品会.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8A2B491C5C004EA55A /* outerSpace_唯品会.jpg */; };
+		48DB5DB92B491C60004EA55A /* outerSpace_微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8B2B491C5C004EA55A /* outerSpace_微信.jpg */; };
+		48DB5DBA2B491C60004EA55A /* outerSpace_王者荣耀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8C2B491C5C004EA55A /* outerSpace_王者荣耀.jpg */; };
+		48DB5DBB2B491C60004EA55A /* outerSpace_优酷视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8D2B491C5C004EA55A /* outerSpace_优酷视频.jpg */; };
+		48DB5DBC2B491C60004EA55A /* outerSpace_百度地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8E2B491C5C004EA55A /* outerSpace_百度地图.jpg */; };
+		48DB5DBD2B491C60004EA55A /* outerSpace_钉钉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C8F2B491C5C004EA55A /* outerSpace_钉钉.jpg */; };
+		48DB5DBE2B491C60004EA55A /* outerSpace_天天爱消除.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C902B491C5C004EA55A /* outerSpace_天天爱消除.jpg */; };
+		48DB5DBF2B491C60004EA55A /* outerSpace_酷狗音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C912B491C5C004EA55A /* outerSpace_酷狗音乐.jpg */; };
+		48DB5DC02B491C60004EA55A /* outerSpace_抖音.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C922B491C5C004EA55A /* outerSpace_抖音.jpg */; };
+		48DB5DC12B491C60004EA55A /* outerSpace_和平精英.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C932B491C5C004EA55A /* outerSpace_和平精英.jpg */; };
+		48DB5DC22B491C60004EA55A /* outerSpace_中国移动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C942B491C5C004EA55A /* outerSpace_中国移动.jpg */; };
+		48DB5DC32B491C60004EA55A /* outerSpace_探探.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C952B491C5C004EA55A /* outerSpace_探探.jpg */; };
+		48DB5DC42B491C60004EA55A /* outerSpace_剪映.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C962B491C5C004EA55A /* outerSpace_剪映.jpg */; };
+		48DB5DC52B491C60004EA55A /* outerSpace_信息.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C972B491C5C004EA55A /* outerSpace_信息.jpg */; };
+		48DB5DC62B491C60004EA55A /* outerSpace_虾米音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C982B491C5C004EA55A /* outerSpace_虾米音乐.jpg */; };
+		48DB5DC72B491C60004EA55A /* outerSpace_天猫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C992B491C5C004EA55A /* outerSpace_天猫.jpg */; };
+		48DB5DC82B491C60004EA55A /* outerSpace_微博.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9A2B491C5C004EA55A /* outerSpace_微博.jpg */; };
+		48DB5DC92B491C60004EA55A /* outerSpace_美团.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9B2B491C5C004EA55A /* outerSpace_美团.jpg */; };
+		48DB5DCA2B491C60004EA55A /* outerSpace_企业微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9C2B491C5C004EA55A /* outerSpace_企业微信.jpg */; };
+		48DB5DCB2B491C60004EA55A /* outerSpace_咸鱼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9D2B491C5C004EA55A /* outerSpace_咸鱼.jpg */; };
+		48DB5DCC2B491C60004EA55A /* outerSpace_QQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9E2B491C5C004EA55A /* outerSpace_QQ.jpg */; };
+		48DB5DCD2B491C60004EA55A /* outerSpace_腾讯会议.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5C9F2B491C5C004EA55A /* outerSpace_腾讯会议.jpg */; };
+		48DB5DCE2B491C60004EA55A /* outerSpace_陌陌.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA02B491C5C004EA55A /* outerSpace_陌陌.jpg */; };
+		48DB5DCF2B491C60004EA55A /* outerSpace_百度.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA12B491C5C004EA55A /* outerSpace_百度.jpg */; };
+		48DB5DD02B491C60004EA55A /* outerSpace_京东.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA22B491C5C004EA55A /* outerSpace_京东.jpg */; };
+		48DB5DD12B491C60004EA55A /* outerSpace_爱奇艺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA32B491C5C004EA55A /* outerSpace_爱奇艺.jpg */; };
+		48DB5DD22B491C60004EA55A /* outerSpace_今日头条.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA42B491C5C004EA55A /* outerSpace_今日头条.jpg */; };
+		48DB5DD32B491C60004EA55A /* outerSpace_高德地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA52B491C5C004EA55A /* outerSpace_高德地图.jpg */; };
+		48DB5DD42B491C60004EA55A /* outerSpace_淘宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA62B491C5C004EA55A /* outerSpace_淘宝.jpg */; };
+		48DB5DD52B491C61004EA55A /* outerSpace_网易云音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA72B491C5C004EA55A /* outerSpace_网易云音乐.jpg */; };
+		48DB5DD62B491C61004EA55A /* outerSpace_美图秀秀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA82B491C5C004EA55A /* outerSpace_美图秀秀.jpg */; };
+		48DB5DD72B491C61004EA55A /* outerSpace_电话.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CA92B491C5C004EA55A /* outerSpace_电话.jpg */; };
+		48DB5DD82B491C61004EA55A /* outerSpace_设置.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAA2B491C5C004EA55A /* outerSpace_设置.jpg */; };
+		48DB5DD92B491C61004EA55A /* outerSpace_支付宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAB2B491C5C004EA55A /* outerSpace_支付宝.jpg */; };
+		48DB5DDA2B491C61004EA55A /* outerSpace_嘀嗒出行.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAC2B491C5C004EA55A /* outerSpace_嘀嗒出行.jpg */; };
+		48DB5DDB2B491C61004EA55A /* outerSpace_大众点评.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAD2B491C5C004EA55A /* outerSpace_大众点评.jpg */; };
+		48DB5DDC2B491C61004EA55A /* outerSpace_墨迹天气.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAE2B491C5C004EA55A /* outerSpace_墨迹天气.jpg */; };
+		48DB5DDD2B491C61004EA55A /* outerSpace_哔哩哔哩.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CAF2B491C5C004EA55A /* outerSpace_哔哩哔哩.jpg */; };
+		48DB5DDE2B491C61004EA55A /* outerSpace_App Store.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB02B491C5C004EA55A /* outerSpace_App Store.jpg */; };
+		48DB5DDF2B491C61004EA55A /* outerSpace_KEEP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB12B491C5C004EA55A /* outerSpace_KEEP.jpg */; };
+		48DB5DE02B491C61004EA55A /* outerSpace_腾讯微视.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB22B491C5C004EA55A /* outerSpace_腾讯微视.jpg */; };
+		48DB5DE12B491C61004EA55A /* outerSpace_万年历.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB32B491C5C004EA55A /* outerSpace_万年历.jpg */; };
+		48DB5DE22B491C61004EA55A /* outerSpace_饿了么.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB42B491C5C004EA55A /* outerSpace_饿了么.jpg */; };
+		48DB5DE32B491C61004EA55A /* outerSpace_酷我音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB52B491C5C004EA55A /* outerSpace_酷我音乐.jpg */; };
+		48DB5DE42B491C61004EA55A /* outerSpace_拼多多.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB62B491C5C004EA55A /* outerSpace_拼多多.jpg */; };
+		48DB5DE52B491C61004EA55A /* outerSpace_腾讯视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB72B491C5C004EA55A /* outerSpace_腾讯视频.jpg */; };
+		48DB5DE62B491C61004EA55A /* outerSpace_快手.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CB82B491C5C004EA55A /* outerSpace_快手.jpg */; };
+		48DB5DE72B491C61004EA55A /* outerSpace2_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CBB2B491C5C004EA55A /* outerSpace2_1.png */; };
+		48DB5DE82B491C61004EA55A /* outerSpace2_6476.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CBC2B491C5C004EA55A /* outerSpace2_6476.png */; };
+		48DB5DE92B491C61004EA55A /* outerSpace2_435.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CBD2B491C5C004EA55A /* outerSpace2_435.png */; };
+		48DB5DEA2B491C61004EA55A /* outerSpace2_2344.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CBE2B491C5C004EA55A /* outerSpace2_2344.png */; };
+		48DB5DEB2B491C61004EA55A /* outerSpace2_2545234.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CBF2B491C5C004EA55A /* outerSpace2_2545234.png */; };
+		48DB5DEC2B491C61004EA55A /* outerSpace2_IMG_1274.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC02B491C5C004EA55A /* outerSpace2_IMG_1274.png */; };
+		48DB5DED2B491C61004EA55A /* outerSpace2_美团.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC22B491C5C004EA55A /* outerSpace2_美团.jpg */; };
+		48DB5DEE2B491C61004EA55A /* outerSpace2_微博.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC32B491C5D004EA55A /* outerSpace2_微博.jpg */; };
+		48DB5DEF2B491C61004EA55A /* outerSpace2_QQ音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC42B491C5D004EA55A /* outerSpace2_QQ音乐.jpg */; };
+		48DB5DF02B491C61004EA55A /* outerSpace2_天猫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC52B491C5D004EA55A /* outerSpace2_天猫.jpg */; };
+		48DB5DF12B491C61004EA55A /* outerSpace2_百度地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC62B491C5D004EA55A /* outerSpace2_百度地图.jpg */; };
+		48DB5DF22B491C61004EA55A /* outerSpace2_信息.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC72B491C5D004EA55A /* outerSpace2_信息.jpg */; };
+		48DB5DF32B491C61004EA55A /* outerSpace2_网易云音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC82B491C5D004EA55A /* outerSpace2_网易云音乐.jpg */; };
+		48DB5DF42B491C61004EA55A /* outerSpace2_优酷视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CC92B491C5D004EA55A /* outerSpace2_优酷视频.jpg */; };
+		48DB5DF52B491C61004EA55A /* outerSpace2_剪映.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCA2B491C5D004EA55A /* outerSpace2_剪映.jpg */; };
+		48DB5DF62B491C61004EA55A /* outerSpace2_探探.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCB2B491C5D004EA55A /* outerSpace2_探探.jpg */; };
+		48DB5DF72B491C61004EA55A /* outerSpace2_抖音.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCC2B491C5D004EA55A /* outerSpace2_抖音.jpg */; };
+		48DB5DF82B491C61004EA55A /* outerSpace2_王者荣耀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCD2B491C5D004EA55A /* outerSpace2_王者荣耀.jpg */; };
+		48DB5DF92B491C61004EA55A /* outerSpace2_中国移动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCE2B491C5D004EA55A /* outerSpace2_中国移动.jpg */; };
+		48DB5DFA2B491C61004EA55A /* outerSpace2_钉钉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CCF2B491C5D004EA55A /* outerSpace2_钉钉.jpg */; };
+		48DB5DFB2B491C61004EA55A /* outerSpace2_虾米音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD02B491C5D004EA55A /* outerSpace2_虾米音乐.jpg */; };
+		48DB5DFC2B491C61004EA55A /* outerSpace2_酷狗音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD12B491C5D004EA55A /* outerSpace2_酷狗音乐.jpg */; };
+		48DB5DFD2B491C61004EA55A /* outerSpace2_和平精英.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD22B491C5D004EA55A /* outerSpace2_和平精英.jpg */; };
+		48DB5DFE2B491C61004EA55A /* outerSpace2_微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD32B491C5D004EA55A /* outerSpace2_微信.jpg */; };
+		48DB5DFF2B491C61004EA55A /* outerSpace2_小红书.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD42B491C5D004EA55A /* outerSpace2_小红书.jpg */; };
+		48DB5E002B491C61004EA55A /* outerSpace2_唯品会.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD52B491C5D004EA55A /* outerSpace2_唯品会.jpg */; };
+		48DB5E012B491C61004EA55A /* outerSpace2_铁路12306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD62B491C5D004EA55A /* outerSpace2_铁路12306.jpg */; };
+		48DB5E022B491C61004EA55A /* outerSpace2_快手.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD72B491C5D004EA55A /* outerSpace2_快手.jpg */; };
+		48DB5E032B491C61004EA55A /* outerSpace2_饿了么.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD82B491C5D004EA55A /* outerSpace2_饿了么.jpg */; };
+		48DB5E042B491C61004EA55A /* outerSpace2_万年历.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CD92B491C5D004EA55A /* outerSpace2_万年历.jpg */; };
+		48DB5E052B491C61004EA55A /* outerSpace2_腾讯会议.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDA2B491C5D004EA55A /* outerSpace2_腾讯会议.jpg */; };
+		48DB5E062B491C61004EA55A /* outerSpace2_企业微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDB2B491C5D004EA55A /* outerSpace2_企业微信.jpg */; };
+		48DB5E072B491C61004EA55A /* outerSpace2_拼多多.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDC2B491C5D004EA55A /* outerSpace2_拼多多.jpg */; };
+		48DB5E082B491C61004EA55A /* outerSpace2_今日头条.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDD2B491C5D004EA55A /* outerSpace2_今日头条.jpg */; };
+		48DB5E092B491C61004EA55A /* outerSpace2_高德地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDE2B491C5D004EA55A /* outerSpace2_高德地图.jpg */; };
+		48DB5E0A2B491C61004EA55A /* outerSpace2_支付宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CDF2B491C5D004EA55A /* outerSpace2_支付宝.jpg */; };
+		48DB5E0B2B491C61004EA55A /* outerSpace2_美图秀秀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE02B491C5D004EA55A /* outerSpace2_美图秀秀.jpg */; };
+		48DB5E0C2B491C61004EA55A /* outerSpace2_App Store.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE12B491C5D004EA55A /* outerSpace2_App Store.jpg */; };
+		48DB5E0D2B491C61004EA55A /* outerSpace2_墨迹天气.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE22B491C5D004EA55A /* outerSpace2_墨迹天气.jpg */; };
+		48DB5E0E2B491C61004EA55A /* outerSpace2_天天爱消除.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE32B491C5D004EA55A /* outerSpace2_天天爱消除.jpg */; };
+		48DB5E0F2B491C61004EA55A /* outerSpace2_设置.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE42B491C5D004EA55A /* outerSpace2_设置.jpg */; };
+		48DB5E102B491C61004EA55A /* outerSpace2_电话.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE52B491C5D004EA55A /* outerSpace2_电话.jpg */; };
+		48DB5E112B491C61004EA55A /* outerSpace2_嘀嗒出行.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE62B491C5D004EA55A /* outerSpace2_嘀嗒出行.jpg */; };
+		48DB5E122B491C61004EA55A /* outerSpace2_大众点评.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE72B491C5D004EA55A /* outerSpace2_大众点评.jpg */; };
+		48DB5E132B491C61004EA55A /* outerSpace2_酷我音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE82B491C5D004EA55A /* outerSpace2_酷我音乐.jpg */; };
+		48DB5E142B491C61004EA55A /* outerSpace2_淘宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CE92B491C5D004EA55A /* outerSpace2_淘宝.jpg */; };
+		48DB5E152B491C61004EA55A /* outerSpace2_爱奇艺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CEA2B491C5D004EA55A /* outerSpace2_爱奇艺.jpg */; };
+		48DB5E162B491C61004EA55A /* outerSpace2_腾讯视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CEB2B491C5D004EA55A /* outerSpace2_腾讯视频.jpg */; };
+		48DB5E172B491C61004EA55A /* outerSpace2_KEEP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CEC2B491C5D004EA55A /* outerSpace2_KEEP.jpg */; };
+		48DB5E182B491C61004EA55A /* outerSpace2_哔哩哔哩.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CED2B491C5D004EA55A /* outerSpace2_哔哩哔哩.jpg */; };
+		48DB5E192B491C61004EA55A /* outerSpace2_腾讯微视.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CEE2B491C5D004EA55A /* outerSpace2_腾讯微视.jpg */; };
+		48DB5E1A2B491C61004EA55A /* outerSpace2_京东.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CEF2B491C5D004EA55A /* outerSpace2_京东.jpg */; };
+		48DB5E1B2B491C61004EA55A /* outerSpace2_百度.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF02B491C5D004EA55A /* outerSpace2_百度.jpg */; };
+		48DB5E1C2B491C61004EA55A /* outerSpace2_陌陌.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF12B491C5D004EA55A /* outerSpace2_陌陌.jpg */; };
+		48DB5E1D2B491C61004EA55A /* outerSpace2_QQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF22B491C5D004EA55A /* outerSpace2_QQ.jpg */; };
+		48DB5E1E2B491C61004EA55A /* outerSpace2_咸鱼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF32B491C5D004EA55A /* outerSpace2_咸鱼.jpg */; };
+		48DB5E1F2B491C61004EA55A /* rabbit_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF62B491C5D004EA55A /* rabbit_background.png */; };
+		48DB5E202B491C61004EA55A /* rabbit_IMG_1274.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF72B491C5D004EA55A /* rabbit_IMG_1274.png */; };
+		48DB5E212B491C61004EA55A /* rabbit_appIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CF82B491C5D004EA55A /* rabbit_appIcon.png */; };
+		48DB5E222B491C61004EA55A /* rabbit_美团.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFA2B491C5D004EA55A /* rabbit_美团.jpg */; };
+		48DB5E232B491C61004EA55A /* rabbit_和平精英.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFB2B491C5D004EA55A /* rabbit_和平精英.jpg */; };
+		48DB5E242B491C61004EA55A /* rabbit_酷狗音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFC2B491C5D004EA55A /* rabbit_酷狗音乐.jpg */; };
+		48DB5E252B491C61004EA55A /* rabbit_网易云音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFD2B491C5D004EA55A /* rabbit_网易云音乐.jpg */; };
+		48DB5E262B491C61004EA55A /* rabbit_微博.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFE2B491C5D004EA55A /* rabbit_微博.jpg */; };
+		48DB5E272B491C61004EA55A /* rabbit_虾米音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5CFF2B491C5D004EA55A /* rabbit_虾米音乐.jpg */; };
+		48DB5E282B491C61004EA55A /* rabbit_天猫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D002B491C5D004EA55A /* rabbit_天猫.jpg */; };
+		48DB5E292B491C61004EA55A /* rabbit_中国移动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D012B491C5D004EA55A /* rabbit_中国移动.jpg */; };
+		48DB5E2A2B491C61004EA55A /* rabbit_剪映.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D022B491C5D004EA55A /* rabbit_剪映.jpg */; };
+		48DB5E2B2B491C61004EA55A /* rabbit_探探.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D032B491C5D004EA55A /* rabbit_探探.jpg */; };
+		48DB5E2C2B491C61004EA55A /* rabbit_信息.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D042B491C5D004EA55A /* rabbit_信息.jpg */; };
+		48DB5E2D2B491C61004EA55A /* rabbit_抖音.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D052B491C5D004EA55A /* rabbit_抖音.jpg */; };
+		48DB5E2E2B491C61004EA55A /* rabbit_App Store.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D062B491C5D004EA55A /* rabbit_App Store.jpg */; };
+		48DB5E2F2B491C61004EA55A /* rabbit_QQ音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D072B491C5D004EA55A /* rabbit_QQ音乐.jpg */; };
+		48DB5E302B491C61004EA55A /* rabbit_唯品会.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D082B491C5D004EA55A /* rabbit_唯品会.jpg */; };
+		48DB5E312B491C61004EA55A /* rabbit_钉钉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D092B491C5D004EA55A /* rabbit_钉钉.jpg */; };
+		48DB5E322B491C61004EA55A /* rabbit_小红书.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0A2B491C5D004EA55A /* rabbit_小红书.jpg */; };
+		48DB5E332B491C61004EA55A /* rabbit_微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0B2B491C5D004EA55A /* rabbit_微信.jpg */; };
+		48DB5E342B491C61004EA55A /* rabbit_王者荣耀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0C2B491C5D004EA55A /* rabbit_王者荣耀.jpg */; };
+		48DB5E352B491C61004EA55A /* rabbit_优酷视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0D2B491C5D004EA55A /* rabbit_优酷视频.jpg */; };
+		48DB5E362B491C61004EA55A /* rabbit_百度地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0E2B491C5D004EA55A /* rabbit_百度地图.jpg */; };
+		48DB5E372B491C61004EA55A /* rabbit_嘀嗒出行.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D0F2B491C5D004EA55A /* rabbit_嘀嗒出行.jpg */; };
+		48DB5E382B491C61004EA55A /* rabbit_大众点评.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D102B491C5D004EA55A /* rabbit_大众点评.jpg */; };
+		48DB5E392B491C61004EA55A /* rabbit_快手.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D112B491C5D004EA55A /* rabbit_快手.jpg */; };
+		48DB5E3A2B491C61004EA55A /* rabbit_支付宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D122B491C5D004EA55A /* rabbit_支付宝.jpg */; };
+		48DB5E3B2B491C61004EA55A /* rabbit_墨迹天气.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D132B491C5D004EA55A /* rabbit_墨迹天气.jpg */; };
+		48DB5E3C2B491C61004EA55A /* rabbit_铁路12306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D142B491C5D004EA55A /* rabbit_铁路12306.jpg */; };
+		48DB5E3D2B491C61004EA55A /* rabbit_拼多多.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D152B491C5D004EA55A /* rabbit_拼多多.jpg */; };
+		48DB5E3E2B491C61004EA55A /* rabbit_哔哩哔哩.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D162B491C5D004EA55A /* rabbit_哔哩哔哩.jpg */; };
+		48DB5E3F2B491C61004EA55A /* rabbit_KEEP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D172B491C5D004EA55A /* rabbit_KEEP.jpg */; };
+		48DB5E402B491C61004EA55A /* rabbit_腾讯微视.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D182B491C5D004EA55A /* rabbit_腾讯微视.jpg */; };
+		48DB5E412B491C61004EA55A /* rabbit_腾讯视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D192B491C5D004EA55A /* rabbit_腾讯视频.jpg */; };
+		48DB5E422B491C61004EA55A /* rabbit_酷我音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1A2B491C5D004EA55A /* rabbit_酷我音乐.jpg */; };
+		48DB5E432B491C61004EA55A /* rabbit_万年历.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1B2B491C5D004EA55A /* rabbit_万年历.jpg */; };
+		48DB5E442B491C61004EA55A /* rabbit_饿了么.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1C2B491C5D004EA55A /* rabbit_饿了么.jpg */; };
+		48DB5E452B491C61004EA55A /* rabbit_电话.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1D2B491C5D004EA55A /* rabbit_电话.jpg */; };
+		48DB5E462B491C61004EA55A /* rabbit_今日头条.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1E2B491C5D004EA55A /* rabbit_今日头条.jpg */; };
+		48DB5E472B491C61004EA55A /* rabbit_高德地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D1F2B491C5D004EA55A /* rabbit_高德地图.jpg */; };
+		48DB5E482B491C61004EA55A /* rabbit_企业微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D202B491C5D004EA55A /* rabbit_企业微信.jpg */; };
+		48DB5E492B491C61004EA55A /* rabbit_设置.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D212B491C5D004EA55A /* rabbit_设置.jpg */; };
+		48DB5E4A2B491C61004EA55A /* rabbit_腾讯会议.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D222B491C5D004EA55A /* rabbit_腾讯会议.jpg */; };
+		48DB5E4B2B491C61004EA55A /* rabbit_爱奇艺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D232B491C5D004EA55A /* rabbit_爱奇艺.jpg */; };
+		48DB5E4C2B491C61004EA55A /* rabbit_淘宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D242B491C5D004EA55A /* rabbit_淘宝.jpg */; };
+		48DB5E4D2B491C61004EA55A /* rabbit_天天爱消除.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D252B491C5D004EA55A /* rabbit_天天爱消除.jpg */; };
+		48DB5E4E2B491C61004EA55A /* rabbit_QQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D262B491C5D004EA55A /* rabbit_QQ.jpg */; };
+		48DB5E4F2B491C61004EA55A /* rabbit_咸鱼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D272B491C5D004EA55A /* rabbit_咸鱼.jpg */; };
+		48DB5E502B491C61004EA55A /* rabbit_美图秀秀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D282B491C5D004EA55A /* rabbit_美图秀秀.jpg */; };
+		48DB5E512B491C61004EA55A /* rabbit_百度.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D292B491C5D004EA55A /* rabbit_百度.jpg */; };
+		48DB5E522B491C61004EA55A /* rabbit_陌陌.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D2A2B491C5D004EA55A /* rabbit_陌陌.jpg */; };
+		48DB5E532B491C61004EA55A /* rabbit_京东.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D2B2B491C5D004EA55A /* rabbit_京东.jpg */; };
+		48DB5E542B491C61004EA55A /* brownBear_IMG_2828.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D2E2B491C5D004EA55A /* brownBear_IMG_2828.jpg */; };
+		48DB5E552B491C61004EA55A /* brownBear_IMG_2829.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D2F2B491C5D004EA55A /* brownBear_IMG_2829.jpg */; };
+		48DB5E562B491C61004EA55A /* brownBear_Group 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D302B491C5D004EA55A /* brownBear_Group 17.jpg */; };
+		48DB5E572B491C61004EA55A /* brownBear_Group 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D312B491C5D004EA55A /* brownBear_Group 16.jpg */; };
+		48DB5E582B491C61004EA55A /* brownBear_IMG_2833.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D322B491C5D004EA55A /* brownBear_IMG_2833.jpg */; };
+		48DB5E592B491C61004EA55A /* brownBear_IMG_2832.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D332B491C5D004EA55A /* brownBear_IMG_2832.jpg */; };
+		48DB5E5A2B491C61004EA55A /* brownBear_IMG_2830.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D342B491C5D004EA55A /* brownBear_IMG_2830.jpg */; };
+		48DB5E5B2B491C61004EA55A /* brownBear_IMG_2825.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D352B491C5D004EA55A /* brownBear_IMG_2825.jpg */; };
+		48DB5E5C2B491C61004EA55A /* brownBear_IMG_2831.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D362B491C5D004EA55A /* brownBear_IMG_2831.jpg */; };
+		48DB5E5D2B491C61004EA55A /* brownBear_IMG_2834.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D372B491C5D004EA55A /* brownBear_IMG_2834.jpg */; };
+		48DB5E5E2B491C61004EA55A /* brownBear_美图秀秀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D392B491C5D004EA55A /* brownBear_美图秀秀.jpg */; };
+		48DB5E5F2B491C61004EA55A /* brownBear_今日头条.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3A2B491C5D004EA55A /* brownBear_今日头条.jpg */; };
+		48DB5E602B491C61004EA55A /* brownBear_高德地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3B2B491C5D004EA55A /* brownBear_高德地图.jpg */; };
+		48DB5E612B491C61004EA55A /* brownBear_快手.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3C2B491C5E004EA55A /* brownBear_快手.jpg */; };
+		48DB5E622B491C61004EA55A /* brownBear_爱奇艺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3D2B491C5E004EA55A /* brownBear_爱奇艺.jpg */; };
+		48DB5E632B491C61004EA55A /* brownBear_腾讯会议.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3E2B491C5E004EA55A /* brownBear_腾讯会议.jpg */; };
+		48DB5E642B491C61004EA55A /* brownBear_企业微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D3F2B491C5E004EA55A /* brownBear_企业微信.jpg */; };
+		48DB5E652B491C61004EA55A /* brownBear_拼多多.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D402B491C5E004EA55A /* brownBear_拼多多.jpg */; };
+		48DB5E662B491C61004EA55A /* brownBear_腾讯视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D412B491C5E004EA55A /* brownBear_腾讯视频.jpg */; };
+		48DB5E672B491C61004EA55A /* brownBear_京东.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D422B491C5E004EA55A /* brownBear_京东.jpg */; };
+		48DB5E682B491C61004EA55A /* brownBear_百度.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D432B491C5E004EA55A /* brownBear_百度.jpg */; };
+		48DB5E692B491C61004EA55A /* brownBear_陌陌.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D442B491C5E004EA55A /* brownBear_陌陌.jpg */; };
+		48DB5E6A2B491C61004EA55A /* brownBear_QQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D452B491C5E004EA55A /* brownBear_QQ.jpg */; };
+		48DB5E6B2B491C61004EA55A /* brownBear_咸鱼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D462B491C5E004EA55A /* brownBear_咸鱼.jpg */; };
+		48DB5E6C2B491C61004EA55A /* brownBear_App Store.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D472B491C5E004EA55A /* brownBear_App Store.jpg */; };
+		48DB5E6D2B491C61004EA55A /* brownBear_酷我音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D482B491C5E004EA55A /* brownBear_酷我音乐.jpg */; };
+		48DB5E6E2B491C61004EA55A /* brownBear_天天爱消除.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D492B491C5E004EA55A /* brownBear_天天爱消除.jpg */; };
+		48DB5E6F2B491C61004EA55A /* brownBear_KEEP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4A2B491C5E004EA55A /* brownBear_KEEP.jpg */; };
+		48DB5E702B491C61004EA55A /* brownBear_哔哩哔哩.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4B2B491C5E004EA55A /* brownBear_哔哩哔哩.jpg */; };
+		48DB5E712B491C61004EA55A /* brownBear_淘宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4C2B491C5E004EA55A /* brownBear_淘宝.jpg */; };
+		48DB5E722B491C61004EA55A /* brownBear_腾讯微视.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4D2B491C5E004EA55A /* brownBear_腾讯微视.jpg */; };
+		48DB5E732B491C61004EA55A /* brownBear_饿了么.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4E2B491C5E004EA55A /* brownBear_饿了么.jpg */; };
+		48DB5E742B491C61004EA55A /* brownBear_万年历.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D4F2B491C5E004EA55A /* brownBear_万年历.jpg */; };
+		48DB5E752B491C61004EA55A /* brownBear_墨迹天气.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D502B491C5E004EA55A /* brownBear_墨迹天气.jpg */; };
+		48DB5E762B491C61004EA55A /* brownBear_铁路12306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D512B491C5E004EA55A /* brownBear_铁路12306.jpg */; };
+		48DB5E772B491C61004EA55A /* brownBear_支付宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D522B491C5E004EA55A /* brownBear_支付宝.jpg */; };
+		48DB5E782B491C61004EA55A /* brownBear_嘀嗒出行.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D532B491C5E004EA55A /* brownBear_嘀嗒出行.jpg */; };
+		48DB5E792B491C61004EA55A /* brownBear_设置.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D542B491C5E004EA55A /* brownBear_设置.jpg */; };
+		48DB5E7A2B491C61004EA55A /* brownBear_大众点评.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D552B491C5E004EA55A /* brownBear_大众点评.jpg */; };
+		48DB5E7B2B491C61004EA55A /* brownBear_电话.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D562B491C5E004EA55A /* brownBear_电话.jpg */; };
+		48DB5E7C2B491C61004EA55A /* brownBear_抖音.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D572B491C5E004EA55A /* brownBear_抖音.jpg */; };
+		48DB5E7D2B491C61004EA55A /* brownBear_百度地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D582B491C5E004EA55A /* brownBear_百度地图.jpg */; };
+		48DB5E7E2B491C61004EA55A /* brownBear_优酷视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D592B491C5E004EA55A /* brownBear_优酷视频.jpg */; };
+		48DB5E7F2B491C61004EA55A /* brownBear_王者荣耀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5A2B491C5E004EA55A /* brownBear_王者荣耀.jpg */; };
+		48DB5E802B491C61004EA55A /* brownBear_剪映.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5B2B491C5E004EA55A /* brownBear_剪映.jpg */; };
+		48DB5E812B491C61004EA55A /* brownBear_探探.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5C2B491C5E004EA55A /* brownBear_探探.jpg */; };
+		48DB5E822B491C61004EA55A /* brownBear_微博.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5D2B491C5E004EA55A /* brownBear_微博.jpg */; };
+		48DB5E832B491C61004EA55A /* brownBear_天猫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5E2B491C5E004EA55A /* brownBear_天猫.jpg */; };
+		48DB5E842B491C61004EA55A /* brownBear_唯品会.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D5F2B491C5E004EA55A /* brownBear_唯品会.jpg */; };
+		48DB5E852B491C61004EA55A /* brownBear_小红书.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D602B491C5E004EA55A /* brownBear_小红书.jpg */; };
+		48DB5E862B491C61004EA55A /* brownBear_QQ音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D612B491C5E004EA55A /* brownBear_QQ音乐.jpg */; };
+		48DB5E872B491C61004EA55A /* brownBear_短信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D622B491C5E004EA55A /* brownBear_短信.jpg */; };
+		48DB5E882B491C61004EA55A /* brownBear_网易云音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D632B491C5E004EA55A /* brownBear_网易云音乐.jpg */; };
+		48DB5E892B491C61004EA55A /* brownBear_美团.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D642B491C5E004EA55A /* brownBear_美团.jpg */; };
+		48DB5E8A2B491C61004EA55A /* brownBear_虾米音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D652B491C5E004EA55A /* brownBear_虾米音乐.jpg */; };
+		48DB5E8B2B491C61004EA55A /* brownBear_中国移动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D662B491C5E004EA55A /* brownBear_中国移动.jpg */; };
+		48DB5E8C2B491C61004EA55A /* brownBear_微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D672B491C5E004EA55A /* brownBear_微信.jpg */; };
+		48DB5E8D2B491C61004EA55A /* brownBear_和平精英.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D682B491C5E004EA55A /* brownBear_和平精英.jpg */; };
+		48DB5E8E2B491C61004EA55A /* brownBear_钉钉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D692B491C5E004EA55A /* brownBear_钉钉.jpg */; };
+		48DB5E8F2B491C61004EA55A /* brownBear_酷狗音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D6A2B491C5E004EA55A /* brownBear_酷狗音乐.jpg */; };
+		48DB5E902B491C61004EA55A /* jingleCats_Group 42.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D6D2B491C5E004EA55A /* jingleCats_Group 42.png */; };
+		48DB5E912B491C61004EA55A /* jingleCats_Mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D6E2B491C5E004EA55A /* jingleCats_Mask.png */; };
+		48DB5E922B491C61004EA55A /* jingleCats_IMG_0043.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D6F2B491C5E004EA55A /* jingleCats_IMG_0043.png */; };
+		48DB5E932B491C61004EA55A /* jingleCats_IMG_0045.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D702B491C5E004EA55A /* jingleCats_IMG_0045.png */; };
+		48DB5E942B491C61004EA55A /* jingleCats_IMG_0051.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D712B491C5E004EA55A /* jingleCats_IMG_0051.png */; };
+		48DB5E952B491C61004EA55A /* jingleCats_IMG_0050.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D722B491C5E004EA55A /* jingleCats_IMG_0050.png */; };
+		48DB5E962B491C61004EA55A /* jingleCats_IMG_0044.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D732B491C5E004EA55A /* jingleCats_IMG_0044.png */; };
+		48DB5E972B491C61004EA55A /* jingleCats_IMG_0046.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D742B491C5E004EA55A /* jingleCats_IMG_0046.png */; };
+		48DB5E982B491C61004EA55A /* jingleCats_IMG_0047.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D752B491C5E004EA55A /* jingleCats_IMG_0047.png */; };
+		48DB5E992B491C61004EA55A /* jingleCats_IMG_0049.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D762B491C5E004EA55A /* jingleCats_IMG_0049.png */; };
+		48DB5E9A2B491C61004EA55A /* jingleCats_IMG_0048.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D772B491C5E004EA55A /* jingleCats_IMG_0048.png */; };
+		48DB5E9B2B491C61004EA55A /* jingleCats_陌陌.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D792B491C5E004EA55A /* jingleCats_陌陌.jpg */; };
+		48DB5E9C2B491C61004EA55A /* jingleCats_百度.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7A2B491C5E004EA55A /* jingleCats_百度.jpg */; };
+		48DB5E9D2B491C61004EA55A /* jingleCats_京东.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7B2B491C5E004EA55A /* jingleCats_京东.jpg */; };
+		48DB5E9E2B491C61004EA55A /* jingleCats_支付宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7C2B491C5E004EA55A /* jingleCats_支付宝.jpg */; };
+		48DB5E9F2B491C61004EA55A /* jingleCats_咸鱼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7D2B491C5E004EA55A /* jingleCats_咸鱼.jpg */; };
+		48DB5EA02B491C61004EA55A /* jingleCats_QQ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7E2B491C5E004EA55A /* jingleCats_QQ.jpg */; };
+		48DB5EA12B491C61004EA55A /* jingleCats_App Store.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D7F2B491C5E004EA55A /* jingleCats_App Store.jpg */; };
+		48DB5EA22B491C61004EA55A /* jingleCats_美图秀秀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D802B491C5E004EA55A /* jingleCats_美图秀秀.jpg */; };
+		48DB5EA32B491C61004EA55A /* jingleCats_淘宝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D812B491C5E004EA55A /* jingleCats_淘宝.jpg */; };
+		48DB5EA42B491C61004EA55A /* jingleCats_高德地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D822B491C5E004EA55A /* jingleCats_高德地图.jpg */; };
+		48DB5EA52B491C61004EA55A /* jingleCats_今日头条.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D832B491C5E004EA55A /* jingleCats_今日头条.jpg */; };
+		48DB5EA62B491C61004EA55A /* jingleCats_腾讯会议.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D842B491C5E004EA55A /* jingleCats_腾讯会议.jpg */; };
+		48DB5EA72B491C61004EA55A /* jingleCats_万年历.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D852B491C5E004EA55A /* jingleCats_万年历.jpg */; };
+		48DB5EA82B491C61004EA55A /* jingleCats_饿了么.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D862B491C5E004EA55A /* jingleCats_饿了么.jpg */; };
+		48DB5EA92B491C61004EA55A /* jingleCats_企业微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D872B491C5E004EA55A /* jingleCats_企业微信.jpg */; };
+		48DB5EAA2B491C61004EA55A /* jingleCats_设置.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D882B491C5E004EA55A /* jingleCats_设置.jpg */; };
+		48DB5EAB2B491C61004EA55A /* jingleCats_拼多多.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D892B491C5E004EA55A /* jingleCats_拼多多.jpg */; };
+		48DB5EAC2B491C61004EA55A /* jingleCats_电话.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8A2B491C5E004EA55A /* jingleCats_电话.jpg */; };
+		48DB5EAD2B491C61004EA55A /* jingleCats_天天爱消除.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8B2B491C5E004EA55A /* jingleCats_天天爱消除.jpg */; };
+		48DB5EAE2B491C61004EA55A /* jingleCats_腾讯微视.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8C2B491C5E004EA55A /* jingleCats_腾讯微视.jpg */; };
+		48DB5EAF2B491C61004EA55A /* jingleCats_哔哩哔哩.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8D2B491C5E004EA55A /* jingleCats_哔哩哔哩.jpg */; };
+		48DB5EB02B491C61004EA55A /* jingleCats_KEEP.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8E2B491C5E004EA55A /* jingleCats_KEEP.jpg */; };
+		48DB5EB12B491C61004EA55A /* jingleCats_爱奇艺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D8F2B491C5E004EA55A /* jingleCats_爱奇艺.jpg */; };
+		48DB5EB22B491C61004EA55A /* jingleCats_腾讯视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D902B491C5E004EA55A /* jingleCats_腾讯视频.jpg */; };
+		48DB5EB32B491C61004EA55A /* jingleCats_酷我音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D912B491C5E004EA55A /* jingleCats_酷我音乐.jpg */; };
+		48DB5EB42B491C61004EA55A /* jingleCats_大众点评.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D922B491C5E004EA55A /* jingleCats_大众点评.jpg */; };
+		48DB5EB52B491C61004EA55A /* jingleCats_嘀嗒出行.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D932B491C5E004EA55A /* jingleCats_嘀嗒出行.jpg */; };
+		48DB5EB62B491C61004EA55A /* jingleCats_快手.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D942B491C5E004EA55A /* jingleCats_快手.jpg */; };
+		48DB5EB72B491C61004EA55A /* jingleCats_墨迹天气.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D952B491C5E004EA55A /* jingleCats_墨迹天气.jpg */; };
+		48DB5EB82B491C61004EA55A /* jingleCats_王者荣耀.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D962B491C5E004EA55A /* jingleCats_王者荣耀.jpg */; };
+		48DB5EB92B491C61004EA55A /* jingleCats_百度地图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D972B491C5E004EA55A /* jingleCats_百度地图.jpg */; };
+		48DB5EBA2B491C61004EA55A /* jingleCats_优酷视频.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D982B491C5E004EA55A /* jingleCats_优酷视频.jpg */; };
+		48DB5EBB2B491C61004EA55A /* jingleCats_网易云音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D992B491C5E004EA55A /* jingleCats_网易云音乐.jpg */; };
+		48DB5EBC2B491C61004EA55A /* jingleCats_QQ音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9A2B491C5E004EA55A /* jingleCats_QQ音乐.jpg */; };
+		48DB5EBD2B491C61004EA55A /* jingleCats_铁路12306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9B2B491C5E004EA55A /* jingleCats_铁路12306.jpg */; };
+		48DB5EBE2B491C61004EA55A /* jingleCats_微信.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9C2B491C5E004EA55A /* jingleCats_微信.jpg */; };
+		48DB5EBF2B491C61004EA55A /* jingleCats_钉钉.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9D2B491C5E004EA55A /* jingleCats_钉钉.jpg */; };
+		48DB5EC02B491C61004EA55A /* jingleCats_抖音.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9E2B491C5E004EA55A /* jingleCats_抖音.jpg */; };
+		48DB5EC12B491C61004EA55A /* jingleCats_小红书.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5D9F2B491C5E004EA55A /* jingleCats_小红书.jpg */; };
+		48DB5EC22B491C61004EA55A /* jingleCats_信息.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA02B491C5E004EA55A /* jingleCats_信息.jpg */; };
+		48DB5EC32B491C61004EA55A /* jingleCats_唯品会.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA12B491C5E004EA55A /* jingleCats_唯品会.jpg */; };
+		48DB5EC42B491C61004EA55A /* jingleCats_探探.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA22B491C5E004EA55A /* jingleCats_探探.jpg */; };
+		48DB5EC52B491C61004EA55A /* jingleCats_剪映.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA32B491C5E004EA55A /* jingleCats_剪映.jpg */; };
+		48DB5EC62B491C61004EA55A /* jingleCats_和平精英.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA42B491C5E004EA55A /* jingleCats_和平精英.jpg */; };
+		48DB5EC72B491C61004EA55A /* jingleCats_天猫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA52B491C5E004EA55A /* jingleCats_天猫.jpg */; };
+		48DB5EC82B491C61004EA55A /* jingleCats_酷狗音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA62B491C5E004EA55A /* jingleCats_酷狗音乐.jpg */; };
+		48DB5EC92B491C61004EA55A /* jingleCats_微博.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA72B491C5E004EA55A /* jingleCats_微博.jpg */; };
+		48DB5ECA2B491C61004EA55A /* jingleCats_虾米音乐.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA82B491C5E004EA55A /* jingleCats_虾米音乐.jpg */; };
+		48DB5ECB2B491C61004EA55A /* jingleCats_美团.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DA92B491C5E004EA55A /* jingleCats_美团.jpg */; };
+		48DB5ECC2B491C61004EA55A /* jingleCats_中国移动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DB5DAA2B491C5E004EA55A /* jingleCats_中国移动.jpg */; };
 		48DDB1092A5E2BE800D482F4 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DDB1082A5E2BE800D482F4 /* API.swift */; };
 		48E59C1D29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
 		48E59C1E29C30E95007C03DA /* WeiBoReSouMediumTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */; };
@@ -282,6 +571,295 @@
 		48C71F4E29C2E88D00226547 /* ReSouModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReSouModel.swift; sourceTree = "<group>"; };
 		48C71F5229C2FD2400226547 /* WeiBoReSouMediumOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeiBoReSouMediumOne.swift; sourceTree = "<group>"; };
 		48C71F5529C2FD7100226547 /* WeiBoReSouLargeOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeiBoReSouLargeOne.swift; sourceTree = "<group>"; };
+		48DB5C7D2B491C5C004EA55A /* outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg; sourceTree = "<group>"; };
+		48DB5C7E2B491C5C004EA55A /* outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg; sourceTree = "<group>"; };
+		48DB5C7F2B491C5C004EA55A /* outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg; sourceTree = "<group>"; };
+		48DB5C802B491C5C004EA55A /* outerSpace_a90091499d6f348955e655f43997633a.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_a90091499d6f348955e655f43997633a.jpeg; sourceTree = "<group>"; };
+		48DB5C812B491C5C004EA55A /* outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg; sourceTree = "<group>"; };
+		48DB5C822B491C5C004EA55A /* outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg; sourceTree = "<group>"; };
+		48DB5C832B491C5C004EA55A /* outerSpace_壁纸.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_壁纸.jpg"; sourceTree = "<group>"; };
+		48DB5C842B491C5C004EA55A /* outerSpace_d55742a654da14c6cfef0693d410c634.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_d55742a654da14c6cfef0693d410c634.jpeg; sourceTree = "<group>"; };
+		48DB5C852B491C5C004EA55A /* outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg; sourceTree = "<group>"; };
+		48DB5C872B491C5C004EA55A /* outerSpace_小红书.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_小红书.jpg"; sourceTree = "<group>"; };
+		48DB5C882B491C5C004EA55A /* outerSpace_QQ音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_QQ音乐.jpg"; sourceTree = "<group>"; };
+		48DB5C892B491C5C004EA55A /* outerSpace_铁路12306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_铁路12306.jpg"; sourceTree = "<group>"; };
+		48DB5C8A2B491C5C004EA55A /* outerSpace_唯品会.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_唯品会.jpg"; sourceTree = "<group>"; };
+		48DB5C8B2B491C5C004EA55A /* outerSpace_微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_微信.jpg"; sourceTree = "<group>"; };
+		48DB5C8C2B491C5C004EA55A /* outerSpace_王者荣耀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_王者荣耀.jpg"; sourceTree = "<group>"; };
+		48DB5C8D2B491C5C004EA55A /* outerSpace_优酷视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_优酷视频.jpg"; sourceTree = "<group>"; };
+		48DB5C8E2B491C5C004EA55A /* outerSpace_百度地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_百度地图.jpg"; sourceTree = "<group>"; };
+		48DB5C8F2B491C5C004EA55A /* outerSpace_钉钉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_钉钉.jpg"; sourceTree = "<group>"; };
+		48DB5C902B491C5C004EA55A /* outerSpace_天天爱消除.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_天天爱消除.jpg"; sourceTree = "<group>"; };
+		48DB5C912B491C5C004EA55A /* outerSpace_酷狗音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_酷狗音乐.jpg"; sourceTree = "<group>"; };
+		48DB5C922B491C5C004EA55A /* outerSpace_抖音.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_抖音.jpg"; sourceTree = "<group>"; };
+		48DB5C932B491C5C004EA55A /* outerSpace_和平精英.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_和平精英.jpg"; sourceTree = "<group>"; };
+		48DB5C942B491C5C004EA55A /* outerSpace_中国移动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_中国移动.jpg"; sourceTree = "<group>"; };
+		48DB5C952B491C5C004EA55A /* outerSpace_探探.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_探探.jpg"; sourceTree = "<group>"; };
+		48DB5C962B491C5C004EA55A /* outerSpace_剪映.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_剪映.jpg"; sourceTree = "<group>"; };
+		48DB5C972B491C5C004EA55A /* outerSpace_信息.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_信息.jpg"; sourceTree = "<group>"; };
+		48DB5C982B491C5C004EA55A /* outerSpace_虾米音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_虾米音乐.jpg"; sourceTree = "<group>"; };
+		48DB5C992B491C5C004EA55A /* outerSpace_天猫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_天猫.jpg"; sourceTree = "<group>"; };
+		48DB5C9A2B491C5C004EA55A /* outerSpace_微博.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_微博.jpg"; sourceTree = "<group>"; };
+		48DB5C9B2B491C5C004EA55A /* outerSpace_美团.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_美团.jpg"; sourceTree = "<group>"; };
+		48DB5C9C2B491C5C004EA55A /* outerSpace_企业微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_企业微信.jpg"; sourceTree = "<group>"; };
+		48DB5C9D2B491C5C004EA55A /* outerSpace_咸鱼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_咸鱼.jpg"; sourceTree = "<group>"; };
+		48DB5C9E2B491C5C004EA55A /* outerSpace_QQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_QQ.jpg; sourceTree = "<group>"; };
+		48DB5C9F2B491C5C004EA55A /* outerSpace_腾讯会议.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_腾讯会议.jpg"; sourceTree = "<group>"; };
+		48DB5CA02B491C5C004EA55A /* outerSpace_陌陌.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_陌陌.jpg"; sourceTree = "<group>"; };
+		48DB5CA12B491C5C004EA55A /* outerSpace_百度.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_百度.jpg"; sourceTree = "<group>"; };
+		48DB5CA22B491C5C004EA55A /* outerSpace_京东.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_京东.jpg"; sourceTree = "<group>"; };
+		48DB5CA32B491C5C004EA55A /* outerSpace_爱奇艺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_爱奇艺.jpg"; sourceTree = "<group>"; };
+		48DB5CA42B491C5C004EA55A /* outerSpace_今日头条.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_今日头条.jpg"; sourceTree = "<group>"; };
+		48DB5CA52B491C5C004EA55A /* outerSpace_高德地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_高德地图.jpg"; sourceTree = "<group>"; };
+		48DB5CA62B491C5C004EA55A /* outerSpace_淘宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_淘宝.jpg"; sourceTree = "<group>"; };
+		48DB5CA72B491C5C004EA55A /* outerSpace_网易云音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_网易云音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CA82B491C5C004EA55A /* outerSpace_美图秀秀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_美图秀秀.jpg"; sourceTree = "<group>"; };
+		48DB5CA92B491C5C004EA55A /* outerSpace_电话.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_电话.jpg"; sourceTree = "<group>"; };
+		48DB5CAA2B491C5C004EA55A /* outerSpace_设置.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_设置.jpg"; sourceTree = "<group>"; };
+		48DB5CAB2B491C5C004EA55A /* outerSpace_支付宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_支付宝.jpg"; sourceTree = "<group>"; };
+		48DB5CAC2B491C5C004EA55A /* outerSpace_嘀嗒出行.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_嘀嗒出行.jpg"; sourceTree = "<group>"; };
+		48DB5CAD2B491C5C004EA55A /* outerSpace_大众点评.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_大众点评.jpg"; sourceTree = "<group>"; };
+		48DB5CAE2B491C5C004EA55A /* outerSpace_墨迹天气.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_墨迹天气.jpg"; sourceTree = "<group>"; };
+		48DB5CAF2B491C5C004EA55A /* outerSpace_哔哩哔哩.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_哔哩哔哩.jpg"; sourceTree = "<group>"; };
+		48DB5CB02B491C5C004EA55A /* outerSpace_App Store.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_App Store.jpg"; sourceTree = "<group>"; };
+		48DB5CB12B491C5C004EA55A /* outerSpace_KEEP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace_KEEP.jpg; sourceTree = "<group>"; };
+		48DB5CB22B491C5C004EA55A /* outerSpace_腾讯微视.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_腾讯微视.jpg"; sourceTree = "<group>"; };
+		48DB5CB32B491C5C004EA55A /* outerSpace_万年历.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_万年历.jpg"; sourceTree = "<group>"; };
+		48DB5CB42B491C5C004EA55A /* outerSpace_饿了么.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_饿了么.jpg"; sourceTree = "<group>"; };
+		48DB5CB52B491C5C004EA55A /* outerSpace_酷我音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_酷我音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CB62B491C5C004EA55A /* outerSpace_拼多多.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_拼多多.jpg"; sourceTree = "<group>"; };
+		48DB5CB72B491C5C004EA55A /* outerSpace_腾讯视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_腾讯视频.jpg"; sourceTree = "<group>"; };
+		48DB5CB82B491C5C004EA55A /* outerSpace_快手.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace_快手.jpg"; sourceTree = "<group>"; };
+		48DB5CBB2B491C5C004EA55A /* outerSpace2_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_1.png; sourceTree = "<group>"; };
+		48DB5CBC2B491C5C004EA55A /* outerSpace2_6476.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_6476.png; sourceTree = "<group>"; };
+		48DB5CBD2B491C5C004EA55A /* outerSpace2_435.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_435.png; sourceTree = "<group>"; };
+		48DB5CBE2B491C5C004EA55A /* outerSpace2_2344.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_2344.png; sourceTree = "<group>"; };
+		48DB5CBF2B491C5C004EA55A /* outerSpace2_2545234.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_2545234.png; sourceTree = "<group>"; };
+		48DB5CC02B491C5C004EA55A /* outerSpace2_IMG_1274.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = outerSpace2_IMG_1274.png; sourceTree = "<group>"; };
+		48DB5CC22B491C5C004EA55A /* outerSpace2_美团.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_美团.jpg"; sourceTree = "<group>"; };
+		48DB5CC32B491C5D004EA55A /* outerSpace2_微博.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_微博.jpg"; sourceTree = "<group>"; };
+		48DB5CC42B491C5D004EA55A /* outerSpace2_QQ音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_QQ音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CC52B491C5D004EA55A /* outerSpace2_天猫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_天猫.jpg"; sourceTree = "<group>"; };
+		48DB5CC62B491C5D004EA55A /* outerSpace2_百度地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_百度地图.jpg"; sourceTree = "<group>"; };
+		48DB5CC72B491C5D004EA55A /* outerSpace2_信息.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_信息.jpg"; sourceTree = "<group>"; };
+		48DB5CC82B491C5D004EA55A /* outerSpace2_网易云音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_网易云音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CC92B491C5D004EA55A /* outerSpace2_优酷视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_优酷视频.jpg"; sourceTree = "<group>"; };
+		48DB5CCA2B491C5D004EA55A /* outerSpace2_剪映.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_剪映.jpg"; sourceTree = "<group>"; };
+		48DB5CCB2B491C5D004EA55A /* outerSpace2_探探.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_探探.jpg"; sourceTree = "<group>"; };
+		48DB5CCC2B491C5D004EA55A /* outerSpace2_抖音.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_抖音.jpg"; sourceTree = "<group>"; };
+		48DB5CCD2B491C5D004EA55A /* outerSpace2_王者荣耀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_王者荣耀.jpg"; sourceTree = "<group>"; };
+		48DB5CCE2B491C5D004EA55A /* outerSpace2_中国移动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_中国移动.jpg"; sourceTree = "<group>"; };
+		48DB5CCF2B491C5D004EA55A /* outerSpace2_钉钉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_钉钉.jpg"; sourceTree = "<group>"; };
+		48DB5CD02B491C5D004EA55A /* outerSpace2_虾米音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_虾米音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CD12B491C5D004EA55A /* outerSpace2_酷狗音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_酷狗音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CD22B491C5D004EA55A /* outerSpace2_和平精英.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_和平精英.jpg"; sourceTree = "<group>"; };
+		48DB5CD32B491C5D004EA55A /* outerSpace2_微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_微信.jpg"; sourceTree = "<group>"; };
+		48DB5CD42B491C5D004EA55A /* outerSpace2_小红书.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_小红书.jpg"; sourceTree = "<group>"; };
+		48DB5CD52B491C5D004EA55A /* outerSpace2_唯品会.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_唯品会.jpg"; sourceTree = "<group>"; };
+		48DB5CD62B491C5D004EA55A /* outerSpace2_铁路12306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_铁路12306.jpg"; sourceTree = "<group>"; };
+		48DB5CD72B491C5D004EA55A /* outerSpace2_快手.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_快手.jpg"; sourceTree = "<group>"; };
+		48DB5CD82B491C5D004EA55A /* outerSpace2_饿了么.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_饿了么.jpg"; sourceTree = "<group>"; };
+		48DB5CD92B491C5D004EA55A /* outerSpace2_万年历.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_万年历.jpg"; sourceTree = "<group>"; };
+		48DB5CDA2B491C5D004EA55A /* outerSpace2_腾讯会议.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_腾讯会议.jpg"; sourceTree = "<group>"; };
+		48DB5CDB2B491C5D004EA55A /* outerSpace2_企业微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_企业微信.jpg"; sourceTree = "<group>"; };
+		48DB5CDC2B491C5D004EA55A /* outerSpace2_拼多多.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_拼多多.jpg"; sourceTree = "<group>"; };
+		48DB5CDD2B491C5D004EA55A /* outerSpace2_今日头条.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_今日头条.jpg"; sourceTree = "<group>"; };
+		48DB5CDE2B491C5D004EA55A /* outerSpace2_高德地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_高德地图.jpg"; sourceTree = "<group>"; };
+		48DB5CDF2B491C5D004EA55A /* outerSpace2_支付宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_支付宝.jpg"; sourceTree = "<group>"; };
+		48DB5CE02B491C5D004EA55A /* outerSpace2_美图秀秀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_美图秀秀.jpg"; sourceTree = "<group>"; };
+		48DB5CE12B491C5D004EA55A /* outerSpace2_App Store.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_App Store.jpg"; sourceTree = "<group>"; };
+		48DB5CE22B491C5D004EA55A /* outerSpace2_墨迹天气.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_墨迹天气.jpg"; sourceTree = "<group>"; };
+		48DB5CE32B491C5D004EA55A /* outerSpace2_天天爱消除.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_天天爱消除.jpg"; sourceTree = "<group>"; };
+		48DB5CE42B491C5D004EA55A /* outerSpace2_设置.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_设置.jpg"; sourceTree = "<group>"; };
+		48DB5CE52B491C5D004EA55A /* outerSpace2_电话.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_电话.jpg"; sourceTree = "<group>"; };
+		48DB5CE62B491C5D004EA55A /* outerSpace2_嘀嗒出行.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_嘀嗒出行.jpg"; sourceTree = "<group>"; };
+		48DB5CE72B491C5D004EA55A /* outerSpace2_大众点评.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_大众点评.jpg"; sourceTree = "<group>"; };
+		48DB5CE82B491C5D004EA55A /* outerSpace2_酷我音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_酷我音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CE92B491C5D004EA55A /* outerSpace2_淘宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_淘宝.jpg"; sourceTree = "<group>"; };
+		48DB5CEA2B491C5D004EA55A /* outerSpace2_爱奇艺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_爱奇艺.jpg"; sourceTree = "<group>"; };
+		48DB5CEB2B491C5D004EA55A /* outerSpace2_腾讯视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_腾讯视频.jpg"; sourceTree = "<group>"; };
+		48DB5CEC2B491C5D004EA55A /* outerSpace2_KEEP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace2_KEEP.jpg; sourceTree = "<group>"; };
+		48DB5CED2B491C5D004EA55A /* outerSpace2_哔哩哔哩.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_哔哩哔哩.jpg"; sourceTree = "<group>"; };
+		48DB5CEE2B491C5D004EA55A /* outerSpace2_腾讯微视.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_腾讯微视.jpg"; sourceTree = "<group>"; };
+		48DB5CEF2B491C5D004EA55A /* outerSpace2_京东.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_京东.jpg"; sourceTree = "<group>"; };
+		48DB5CF02B491C5D004EA55A /* outerSpace2_百度.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_百度.jpg"; sourceTree = "<group>"; };
+		48DB5CF12B491C5D004EA55A /* outerSpace2_陌陌.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_陌陌.jpg"; sourceTree = "<group>"; };
+		48DB5CF22B491C5D004EA55A /* outerSpace2_QQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outerSpace2_QQ.jpg; sourceTree = "<group>"; };
+		48DB5CF32B491C5D004EA55A /* outerSpace2_咸鱼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outerSpace2_咸鱼.jpg"; sourceTree = "<group>"; };
+		48DB5CF62B491C5D004EA55A /* rabbit_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit_background.png; sourceTree = "<group>"; };
+		48DB5CF72B491C5D004EA55A /* rabbit_IMG_1274.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit_IMG_1274.png; sourceTree = "<group>"; };
+		48DB5CF82B491C5D004EA55A /* rabbit_appIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit_appIcon.png; sourceTree = "<group>"; };
+		48DB5CFA2B491C5D004EA55A /* rabbit_美团.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_美团.jpg"; sourceTree = "<group>"; };
+		48DB5CFB2B491C5D004EA55A /* rabbit_和平精英.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_和平精英.jpg"; sourceTree = "<group>"; };
+		48DB5CFC2B491C5D004EA55A /* rabbit_酷狗音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_酷狗音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CFD2B491C5D004EA55A /* rabbit_网易云音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_网易云音乐.jpg"; sourceTree = "<group>"; };
+		48DB5CFE2B491C5D004EA55A /* rabbit_微博.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_微博.jpg"; sourceTree = "<group>"; };
+		48DB5CFF2B491C5D004EA55A /* rabbit_虾米音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_虾米音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D002B491C5D004EA55A /* rabbit_天猫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_天猫.jpg"; sourceTree = "<group>"; };
+		48DB5D012B491C5D004EA55A /* rabbit_中国移动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_中国移动.jpg"; sourceTree = "<group>"; };
+		48DB5D022B491C5D004EA55A /* rabbit_剪映.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_剪映.jpg"; sourceTree = "<group>"; };
+		48DB5D032B491C5D004EA55A /* rabbit_探探.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_探探.jpg"; sourceTree = "<group>"; };
+		48DB5D042B491C5D004EA55A /* rabbit_信息.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_信息.jpg"; sourceTree = "<group>"; };
+		48DB5D052B491C5D004EA55A /* rabbit_抖音.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_抖音.jpg"; sourceTree = "<group>"; };
+		48DB5D062B491C5D004EA55A /* rabbit_App Store.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_App Store.jpg"; sourceTree = "<group>"; };
+		48DB5D072B491C5D004EA55A /* rabbit_QQ音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_QQ音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D082B491C5D004EA55A /* rabbit_唯品会.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_唯品会.jpg"; sourceTree = "<group>"; };
+		48DB5D092B491C5D004EA55A /* rabbit_钉钉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_钉钉.jpg"; sourceTree = "<group>"; };
+		48DB5D0A2B491C5D004EA55A /* rabbit_小红书.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_小红书.jpg"; sourceTree = "<group>"; };
+		48DB5D0B2B491C5D004EA55A /* rabbit_微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_微信.jpg"; sourceTree = "<group>"; };
+		48DB5D0C2B491C5D004EA55A /* rabbit_王者荣耀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_王者荣耀.jpg"; sourceTree = "<group>"; };
+		48DB5D0D2B491C5D004EA55A /* rabbit_优酷视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_优酷视频.jpg"; sourceTree = "<group>"; };
+		48DB5D0E2B491C5D004EA55A /* rabbit_百度地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_百度地图.jpg"; sourceTree = "<group>"; };
+		48DB5D0F2B491C5D004EA55A /* rabbit_嘀嗒出行.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_嘀嗒出行.jpg"; sourceTree = "<group>"; };
+		48DB5D102B491C5D004EA55A /* rabbit_大众点评.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_大众点评.jpg"; sourceTree = "<group>"; };
+		48DB5D112B491C5D004EA55A /* rabbit_快手.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_快手.jpg"; sourceTree = "<group>"; };
+		48DB5D122B491C5D004EA55A /* rabbit_支付宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_支付宝.jpg"; sourceTree = "<group>"; };
+		48DB5D132B491C5D004EA55A /* rabbit_墨迹天气.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_墨迹天气.jpg"; sourceTree = "<group>"; };
+		48DB5D142B491C5D004EA55A /* rabbit_铁路12306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_铁路12306.jpg"; sourceTree = "<group>"; };
+		48DB5D152B491C5D004EA55A /* rabbit_拼多多.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_拼多多.jpg"; sourceTree = "<group>"; };
+		48DB5D162B491C5D004EA55A /* rabbit_哔哩哔哩.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_哔哩哔哩.jpg"; sourceTree = "<group>"; };
+		48DB5D172B491C5D004EA55A /* rabbit_KEEP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rabbit_KEEP.jpg; sourceTree = "<group>"; };
+		48DB5D182B491C5D004EA55A /* rabbit_腾讯微视.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_腾讯微视.jpg"; sourceTree = "<group>"; };
+		48DB5D192B491C5D004EA55A /* rabbit_腾讯视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_腾讯视频.jpg"; sourceTree = "<group>"; };
+		48DB5D1A2B491C5D004EA55A /* rabbit_酷我音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_酷我音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D1B2B491C5D004EA55A /* rabbit_万年历.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_万年历.jpg"; sourceTree = "<group>"; };
+		48DB5D1C2B491C5D004EA55A /* rabbit_饿了么.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_饿了么.jpg"; sourceTree = "<group>"; };
+		48DB5D1D2B491C5D004EA55A /* rabbit_电话.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_电话.jpg"; sourceTree = "<group>"; };
+		48DB5D1E2B491C5D004EA55A /* rabbit_今日头条.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_今日头条.jpg"; sourceTree = "<group>"; };
+		48DB5D1F2B491C5D004EA55A /* rabbit_高德地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_高德地图.jpg"; sourceTree = "<group>"; };
+		48DB5D202B491C5D004EA55A /* rabbit_企业微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_企业微信.jpg"; sourceTree = "<group>"; };
+		48DB5D212B491C5D004EA55A /* rabbit_设置.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_设置.jpg"; sourceTree = "<group>"; };
+		48DB5D222B491C5D004EA55A /* rabbit_腾讯会议.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_腾讯会议.jpg"; sourceTree = "<group>"; };
+		48DB5D232B491C5D004EA55A /* rabbit_爱奇艺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_爱奇艺.jpg"; sourceTree = "<group>"; };
+		48DB5D242B491C5D004EA55A /* rabbit_淘宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_淘宝.jpg"; sourceTree = "<group>"; };
+		48DB5D252B491C5D004EA55A /* rabbit_天天爱消除.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_天天爱消除.jpg"; sourceTree = "<group>"; };
+		48DB5D262B491C5D004EA55A /* rabbit_QQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rabbit_QQ.jpg; sourceTree = "<group>"; };
+		48DB5D272B491C5D004EA55A /* rabbit_咸鱼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_咸鱼.jpg"; sourceTree = "<group>"; };
+		48DB5D282B491C5D004EA55A /* rabbit_美图秀秀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_美图秀秀.jpg"; sourceTree = "<group>"; };
+		48DB5D292B491C5D004EA55A /* rabbit_百度.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_百度.jpg"; sourceTree = "<group>"; };
+		48DB5D2A2B491C5D004EA55A /* rabbit_陌陌.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_陌陌.jpg"; sourceTree = "<group>"; };
+		48DB5D2B2B491C5D004EA55A /* rabbit_京东.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rabbit_京东.jpg"; sourceTree = "<group>"; };
+		48DB5D2E2B491C5D004EA55A /* brownBear_IMG_2828.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2828.jpg; sourceTree = "<group>"; };
+		48DB5D2F2B491C5D004EA55A /* brownBear_IMG_2829.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2829.jpg; sourceTree = "<group>"; };
+		48DB5D302B491C5D004EA55A /* brownBear_Group 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_Group 17.jpg"; sourceTree = "<group>"; };
+		48DB5D312B491C5D004EA55A /* brownBear_Group 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_Group 16.jpg"; sourceTree = "<group>"; };
+		48DB5D322B491C5D004EA55A /* brownBear_IMG_2833.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2833.jpg; sourceTree = "<group>"; };
+		48DB5D332B491C5D004EA55A /* brownBear_IMG_2832.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2832.jpg; sourceTree = "<group>"; };
+		48DB5D342B491C5D004EA55A /* brownBear_IMG_2830.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2830.jpg; sourceTree = "<group>"; };
+		48DB5D352B491C5D004EA55A /* brownBear_IMG_2825.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2825.jpg; sourceTree = "<group>"; };
+		48DB5D362B491C5D004EA55A /* brownBear_IMG_2831.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2831.jpg; sourceTree = "<group>"; };
+		48DB5D372B491C5D004EA55A /* brownBear_IMG_2834.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_IMG_2834.jpg; sourceTree = "<group>"; };
+		48DB5D392B491C5D004EA55A /* brownBear_美图秀秀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_美图秀秀.jpg"; sourceTree = "<group>"; };
+		48DB5D3A2B491C5D004EA55A /* brownBear_今日头条.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_今日头条.jpg"; sourceTree = "<group>"; };
+		48DB5D3B2B491C5D004EA55A /* brownBear_高德地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_高德地图.jpg"; sourceTree = "<group>"; };
+		48DB5D3C2B491C5E004EA55A /* brownBear_快手.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_快手.jpg"; sourceTree = "<group>"; };
+		48DB5D3D2B491C5E004EA55A /* brownBear_爱奇艺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_爱奇艺.jpg"; sourceTree = "<group>"; };
+		48DB5D3E2B491C5E004EA55A /* brownBear_腾讯会议.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_腾讯会议.jpg"; sourceTree = "<group>"; };
+		48DB5D3F2B491C5E004EA55A /* brownBear_企业微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_企业微信.jpg"; sourceTree = "<group>"; };
+		48DB5D402B491C5E004EA55A /* brownBear_拼多多.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_拼多多.jpg"; sourceTree = "<group>"; };
+		48DB5D412B491C5E004EA55A /* brownBear_腾讯视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_腾讯视频.jpg"; sourceTree = "<group>"; };
+		48DB5D422B491C5E004EA55A /* brownBear_京东.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_京东.jpg"; sourceTree = "<group>"; };
+		48DB5D432B491C5E004EA55A /* brownBear_百度.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_百度.jpg"; sourceTree = "<group>"; };
+		48DB5D442B491C5E004EA55A /* brownBear_陌陌.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_陌陌.jpg"; sourceTree = "<group>"; };
+		48DB5D452B491C5E004EA55A /* brownBear_QQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_QQ.jpg; sourceTree = "<group>"; };
+		48DB5D462B491C5E004EA55A /* brownBear_咸鱼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_咸鱼.jpg"; sourceTree = "<group>"; };
+		48DB5D472B491C5E004EA55A /* brownBear_App Store.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_App Store.jpg"; sourceTree = "<group>"; };
+		48DB5D482B491C5E004EA55A /* brownBear_酷我音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_酷我音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D492B491C5E004EA55A /* brownBear_天天爱消除.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_天天爱消除.jpg"; sourceTree = "<group>"; };
+		48DB5D4A2B491C5E004EA55A /* brownBear_KEEP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownBear_KEEP.jpg; sourceTree = "<group>"; };
+		48DB5D4B2B491C5E004EA55A /* brownBear_哔哩哔哩.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_哔哩哔哩.jpg"; sourceTree = "<group>"; };
+		48DB5D4C2B491C5E004EA55A /* brownBear_淘宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_淘宝.jpg"; sourceTree = "<group>"; };
+		48DB5D4D2B491C5E004EA55A /* brownBear_腾讯微视.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_腾讯微视.jpg"; sourceTree = "<group>"; };
+		48DB5D4E2B491C5E004EA55A /* brownBear_饿了么.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_饿了么.jpg"; sourceTree = "<group>"; };
+		48DB5D4F2B491C5E004EA55A /* brownBear_万年历.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_万年历.jpg"; sourceTree = "<group>"; };
+		48DB5D502B491C5E004EA55A /* brownBear_墨迹天气.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_墨迹天气.jpg"; sourceTree = "<group>"; };
+		48DB5D512B491C5E004EA55A /* brownBear_铁路12306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_铁路12306.jpg"; sourceTree = "<group>"; };
+		48DB5D522B491C5E004EA55A /* brownBear_支付宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_支付宝.jpg"; sourceTree = "<group>"; };
+		48DB5D532B491C5E004EA55A /* brownBear_嘀嗒出行.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_嘀嗒出行.jpg"; sourceTree = "<group>"; };
+		48DB5D542B491C5E004EA55A /* brownBear_设置.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_设置.jpg"; sourceTree = "<group>"; };
+		48DB5D552B491C5E004EA55A /* brownBear_大众点评.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_大众点评.jpg"; sourceTree = "<group>"; };
+		48DB5D562B491C5E004EA55A /* brownBear_电话.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_电话.jpg"; sourceTree = "<group>"; };
+		48DB5D572B491C5E004EA55A /* brownBear_抖音.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_抖音.jpg"; sourceTree = "<group>"; };
+		48DB5D582B491C5E004EA55A /* brownBear_百度地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_百度地图.jpg"; sourceTree = "<group>"; };
+		48DB5D592B491C5E004EA55A /* brownBear_优酷视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_优酷视频.jpg"; sourceTree = "<group>"; };
+		48DB5D5A2B491C5E004EA55A /* brownBear_王者荣耀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_王者荣耀.jpg"; sourceTree = "<group>"; };
+		48DB5D5B2B491C5E004EA55A /* brownBear_剪映.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_剪映.jpg"; sourceTree = "<group>"; };
+		48DB5D5C2B491C5E004EA55A /* brownBear_探探.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_探探.jpg"; sourceTree = "<group>"; };
+		48DB5D5D2B491C5E004EA55A /* brownBear_微博.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_微博.jpg"; sourceTree = "<group>"; };
+		48DB5D5E2B491C5E004EA55A /* brownBear_天猫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_天猫.jpg"; sourceTree = "<group>"; };
+		48DB5D5F2B491C5E004EA55A /* brownBear_唯品会.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_唯品会.jpg"; sourceTree = "<group>"; };
+		48DB5D602B491C5E004EA55A /* brownBear_小红书.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_小红书.jpg"; sourceTree = "<group>"; };
+		48DB5D612B491C5E004EA55A /* brownBear_QQ音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_QQ音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D622B491C5E004EA55A /* brownBear_短信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_短信.jpg"; sourceTree = "<group>"; };
+		48DB5D632B491C5E004EA55A /* brownBear_网易云音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_网易云音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D642B491C5E004EA55A /* brownBear_美团.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_美团.jpg"; sourceTree = "<group>"; };
+		48DB5D652B491C5E004EA55A /* brownBear_虾米音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_虾米音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D662B491C5E004EA55A /* brownBear_中国移动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_中国移动.jpg"; sourceTree = "<group>"; };
+		48DB5D672B491C5E004EA55A /* brownBear_微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_微信.jpg"; sourceTree = "<group>"; };
+		48DB5D682B491C5E004EA55A /* brownBear_和平精英.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_和平精英.jpg"; sourceTree = "<group>"; };
+		48DB5D692B491C5E004EA55A /* brownBear_钉钉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_钉钉.jpg"; sourceTree = "<group>"; };
+		48DB5D6A2B491C5E004EA55A /* brownBear_酷狗音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "brownBear_酷狗音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D6D2B491C5E004EA55A /* jingleCats_Group 42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jingleCats_Group 42.png"; sourceTree = "<group>"; };
+		48DB5D6E2B491C5E004EA55A /* jingleCats_Mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_Mask.png; sourceTree = "<group>"; };
+		48DB5D6F2B491C5E004EA55A /* jingleCats_IMG_0043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0043.png; sourceTree = "<group>"; };
+		48DB5D702B491C5E004EA55A /* jingleCats_IMG_0045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0045.png; sourceTree = "<group>"; };
+		48DB5D712B491C5E004EA55A /* jingleCats_IMG_0051.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0051.png; sourceTree = "<group>"; };
+		48DB5D722B491C5E004EA55A /* jingleCats_IMG_0050.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0050.png; sourceTree = "<group>"; };
+		48DB5D732B491C5E004EA55A /* jingleCats_IMG_0044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0044.png; sourceTree = "<group>"; };
+		48DB5D742B491C5E004EA55A /* jingleCats_IMG_0046.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0046.png; sourceTree = "<group>"; };
+		48DB5D752B491C5E004EA55A /* jingleCats_IMG_0047.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0047.png; sourceTree = "<group>"; };
+		48DB5D762B491C5E004EA55A /* jingleCats_IMG_0049.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0049.png; sourceTree = "<group>"; };
+		48DB5D772B491C5E004EA55A /* jingleCats_IMG_0048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jingleCats_IMG_0048.png; sourceTree = "<group>"; };
+		48DB5D792B491C5E004EA55A /* jingleCats_陌陌.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_陌陌.jpg"; sourceTree = "<group>"; };
+		48DB5D7A2B491C5E004EA55A /* jingleCats_百度.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_百度.jpg"; sourceTree = "<group>"; };
+		48DB5D7B2B491C5E004EA55A /* jingleCats_京东.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_京东.jpg"; sourceTree = "<group>"; };
+		48DB5D7C2B491C5E004EA55A /* jingleCats_支付宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_支付宝.jpg"; sourceTree = "<group>"; };
+		48DB5D7D2B491C5E004EA55A /* jingleCats_咸鱼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_咸鱼.jpg"; sourceTree = "<group>"; };
+		48DB5D7E2B491C5E004EA55A /* jingleCats_QQ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jingleCats_QQ.jpg; sourceTree = "<group>"; };
+		48DB5D7F2B491C5E004EA55A /* jingleCats_App Store.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_App Store.jpg"; sourceTree = "<group>"; };
+		48DB5D802B491C5E004EA55A /* jingleCats_美图秀秀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_美图秀秀.jpg"; sourceTree = "<group>"; };
+		48DB5D812B491C5E004EA55A /* jingleCats_淘宝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_淘宝.jpg"; sourceTree = "<group>"; };
+		48DB5D822B491C5E004EA55A /* jingleCats_高德地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_高德地图.jpg"; sourceTree = "<group>"; };
+		48DB5D832B491C5E004EA55A /* jingleCats_今日头条.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_今日头条.jpg"; sourceTree = "<group>"; };
+		48DB5D842B491C5E004EA55A /* jingleCats_腾讯会议.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_腾讯会议.jpg"; sourceTree = "<group>"; };
+		48DB5D852B491C5E004EA55A /* jingleCats_万年历.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_万年历.jpg"; sourceTree = "<group>"; };
+		48DB5D862B491C5E004EA55A /* jingleCats_饿了么.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_饿了么.jpg"; sourceTree = "<group>"; };
+		48DB5D872B491C5E004EA55A /* jingleCats_企业微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_企业微信.jpg"; sourceTree = "<group>"; };
+		48DB5D882B491C5E004EA55A /* jingleCats_设置.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_设置.jpg"; sourceTree = "<group>"; };
+		48DB5D892B491C5E004EA55A /* jingleCats_拼多多.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_拼多多.jpg"; sourceTree = "<group>"; };
+		48DB5D8A2B491C5E004EA55A /* jingleCats_电话.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_电话.jpg"; sourceTree = "<group>"; };
+		48DB5D8B2B491C5E004EA55A /* jingleCats_天天爱消除.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_天天爱消除.jpg"; sourceTree = "<group>"; };
+		48DB5D8C2B491C5E004EA55A /* jingleCats_腾讯微视.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_腾讯微视.jpg"; sourceTree = "<group>"; };
+		48DB5D8D2B491C5E004EA55A /* jingleCats_哔哩哔哩.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_哔哩哔哩.jpg"; sourceTree = "<group>"; };
+		48DB5D8E2B491C5E004EA55A /* jingleCats_KEEP.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jingleCats_KEEP.jpg; sourceTree = "<group>"; };
+		48DB5D8F2B491C5E004EA55A /* jingleCats_爱奇艺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_爱奇艺.jpg"; sourceTree = "<group>"; };
+		48DB5D902B491C5E004EA55A /* jingleCats_腾讯视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_腾讯视频.jpg"; sourceTree = "<group>"; };
+		48DB5D912B491C5E004EA55A /* jingleCats_酷我音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_酷我音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D922B491C5E004EA55A /* jingleCats_大众点评.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_大众点评.jpg"; sourceTree = "<group>"; };
+		48DB5D932B491C5E004EA55A /* jingleCats_嘀嗒出行.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_嘀嗒出行.jpg"; sourceTree = "<group>"; };
+		48DB5D942B491C5E004EA55A /* jingleCats_快手.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_快手.jpg"; sourceTree = "<group>"; };
+		48DB5D952B491C5E004EA55A /* jingleCats_墨迹天气.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_墨迹天气.jpg"; sourceTree = "<group>"; };
+		48DB5D962B491C5E004EA55A /* jingleCats_王者荣耀.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_王者荣耀.jpg"; sourceTree = "<group>"; };
+		48DB5D972B491C5E004EA55A /* jingleCats_百度地图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_百度地图.jpg"; sourceTree = "<group>"; };
+		48DB5D982B491C5E004EA55A /* jingleCats_优酷视频.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_优酷视频.jpg"; sourceTree = "<group>"; };
+		48DB5D992B491C5E004EA55A /* jingleCats_网易云音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_网易云音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D9A2B491C5E004EA55A /* jingleCats_QQ音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_QQ音乐.jpg"; sourceTree = "<group>"; };
+		48DB5D9B2B491C5E004EA55A /* jingleCats_铁路12306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_铁路12306.jpg"; sourceTree = "<group>"; };
+		48DB5D9C2B491C5E004EA55A /* jingleCats_微信.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_微信.jpg"; sourceTree = "<group>"; };
+		48DB5D9D2B491C5E004EA55A /* jingleCats_钉钉.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_钉钉.jpg"; sourceTree = "<group>"; };
+		48DB5D9E2B491C5E004EA55A /* jingleCats_抖音.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_抖音.jpg"; sourceTree = "<group>"; };
+		48DB5D9F2B491C5E004EA55A /* jingleCats_小红书.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_小红书.jpg"; sourceTree = "<group>"; };
+		48DB5DA02B491C5E004EA55A /* jingleCats_信息.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_信息.jpg"; sourceTree = "<group>"; };
+		48DB5DA12B491C5E004EA55A /* jingleCats_唯品会.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_唯品会.jpg"; sourceTree = "<group>"; };
+		48DB5DA22B491C5E004EA55A /* jingleCats_探探.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_探探.jpg"; sourceTree = "<group>"; };
+		48DB5DA32B491C5E004EA55A /* jingleCats_剪映.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_剪映.jpg"; sourceTree = "<group>"; };
+		48DB5DA42B491C5E004EA55A /* jingleCats_和平精英.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_和平精英.jpg"; sourceTree = "<group>"; };
+		48DB5DA52B491C5E004EA55A /* jingleCats_天猫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_天猫.jpg"; sourceTree = "<group>"; };
+		48DB5DA62B491C5E004EA55A /* jingleCats_酷狗音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_酷狗音乐.jpg"; sourceTree = "<group>"; };
+		48DB5DA72B491C5E004EA55A /* jingleCats_微博.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_微博.jpg"; sourceTree = "<group>"; };
+		48DB5DA82B491C5E004EA55A /* jingleCats_虾米音乐.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_虾米音乐.jpg"; sourceTree = "<group>"; };
+		48DB5DA92B491C5E004EA55A /* jingleCats_美团.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_美团.jpg"; sourceTree = "<group>"; };
+		48DB5DAA2B491C5E004EA55A /* jingleCats_中国移动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jingleCats_中国移动.jpg"; sourceTree = "<group>"; };
 		48DDB1082A5E2BE800D482F4 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		48E59C1C29C30E95007C03DA /* WeiBoReSouMediumTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeiBoReSouMediumTwo.swift; sourceTree = "<group>"; };
 		48E59C3929C33AFD007C03DA /* WidgetViewID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetViewID.swift; sourceTree = "<group>"; };
@@ -520,6 +1098,422 @@
 			path = Reachability;
 			sourceTree = "<group>";
 		};
+		48DB5C7A2B491C5C004EA55A /* Themes */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5C7B2B491C5C004EA55A /* OuterSpace */,
+				48DB5CB92B491C5C004EA55A /* OuterSpace2 */,
+				48DB5CF42B491C5D004EA55A /* Rabbit */,
+				48DB5D2C2B491C5D004EA55A /* BrownBear */,
+				48DB5D6B2B491C5E004EA55A /* JingleCats */,
+			);
+			path = Themes;
+			sourceTree = "<group>";
+		};
+		48DB5C7B2B491C5C004EA55A /* OuterSpace */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5C7C2B491C5C004EA55A /* Slices */,
+				48DB5C862B491C5C004EA55A /* Icons */,
+			);
+			path = OuterSpace;
+			sourceTree = "<group>";
+		};
+		48DB5C7C2B491C5C004EA55A /* Slices */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5C7D2B491C5C004EA55A /* outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg */,
+				48DB5C7E2B491C5C004EA55A /* outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg */,
+				48DB5C7F2B491C5C004EA55A /* outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg */,
+				48DB5C802B491C5C004EA55A /* outerSpace_a90091499d6f348955e655f43997633a.jpeg */,
+				48DB5C812B491C5C004EA55A /* outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg */,
+				48DB5C822B491C5C004EA55A /* outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg */,
+				48DB5C832B491C5C004EA55A /* outerSpace_壁纸.jpg */,
+				48DB5C842B491C5C004EA55A /* outerSpace_d55742a654da14c6cfef0693d410c634.jpeg */,
+				48DB5C852B491C5C004EA55A /* outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg */,
+			);
+			path = Slices;
+			sourceTree = "<group>";
+		};
+		48DB5C862B491C5C004EA55A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5C872B491C5C004EA55A /* outerSpace_小红书.jpg */,
+				48DB5C882B491C5C004EA55A /* outerSpace_QQ音乐.jpg */,
+				48DB5C892B491C5C004EA55A /* outerSpace_铁路12306.jpg */,
+				48DB5C8A2B491C5C004EA55A /* outerSpace_唯品会.jpg */,
+				48DB5C8B2B491C5C004EA55A /* outerSpace_微信.jpg */,
+				48DB5C8C2B491C5C004EA55A /* outerSpace_王者荣耀.jpg */,
+				48DB5C8D2B491C5C004EA55A /* outerSpace_优酷视频.jpg */,
+				48DB5C8E2B491C5C004EA55A /* outerSpace_百度地图.jpg */,
+				48DB5C8F2B491C5C004EA55A /* outerSpace_钉钉.jpg */,
+				48DB5C902B491C5C004EA55A /* outerSpace_天天爱消除.jpg */,
+				48DB5C912B491C5C004EA55A /* outerSpace_酷狗音乐.jpg */,
+				48DB5C922B491C5C004EA55A /* outerSpace_抖音.jpg */,
+				48DB5C932B491C5C004EA55A /* outerSpace_和平精英.jpg */,
+				48DB5C942B491C5C004EA55A /* outerSpace_中国移动.jpg */,
+				48DB5C952B491C5C004EA55A /* outerSpace_探探.jpg */,
+				48DB5C962B491C5C004EA55A /* outerSpace_剪映.jpg */,
+				48DB5C972B491C5C004EA55A /* outerSpace_信息.jpg */,
+				48DB5C982B491C5C004EA55A /* outerSpace_虾米音乐.jpg */,
+				48DB5C992B491C5C004EA55A /* outerSpace_天猫.jpg */,
+				48DB5C9A2B491C5C004EA55A /* outerSpace_微博.jpg */,
+				48DB5C9B2B491C5C004EA55A /* outerSpace_美团.jpg */,
+				48DB5C9C2B491C5C004EA55A /* outerSpace_企业微信.jpg */,
+				48DB5C9D2B491C5C004EA55A /* outerSpace_咸鱼.jpg */,
+				48DB5C9E2B491C5C004EA55A /* outerSpace_QQ.jpg */,
+				48DB5C9F2B491C5C004EA55A /* outerSpace_腾讯会议.jpg */,
+				48DB5CA02B491C5C004EA55A /* outerSpace_陌陌.jpg */,
+				48DB5CA12B491C5C004EA55A /* outerSpace_百度.jpg */,
+				48DB5CA22B491C5C004EA55A /* outerSpace_京东.jpg */,
+				48DB5CA32B491C5C004EA55A /* outerSpace_爱奇艺.jpg */,
+				48DB5CA42B491C5C004EA55A /* outerSpace_今日头条.jpg */,
+				48DB5CA52B491C5C004EA55A /* outerSpace_高德地图.jpg */,
+				48DB5CA62B491C5C004EA55A /* outerSpace_淘宝.jpg */,
+				48DB5CA72B491C5C004EA55A /* outerSpace_网易云音乐.jpg */,
+				48DB5CA82B491C5C004EA55A /* outerSpace_美图秀秀.jpg */,
+				48DB5CA92B491C5C004EA55A /* outerSpace_电话.jpg */,
+				48DB5CAA2B491C5C004EA55A /* outerSpace_设置.jpg */,
+				48DB5CAB2B491C5C004EA55A /* outerSpace_支付宝.jpg */,
+				48DB5CAC2B491C5C004EA55A /* outerSpace_嘀嗒出行.jpg */,
+				48DB5CAD2B491C5C004EA55A /* outerSpace_大众点评.jpg */,
+				48DB5CAE2B491C5C004EA55A /* outerSpace_墨迹天气.jpg */,
+				48DB5CAF2B491C5C004EA55A /* outerSpace_哔哩哔哩.jpg */,
+				48DB5CB02B491C5C004EA55A /* outerSpace_App Store.jpg */,
+				48DB5CB12B491C5C004EA55A /* outerSpace_KEEP.jpg */,
+				48DB5CB22B491C5C004EA55A /* outerSpace_腾讯微视.jpg */,
+				48DB5CB32B491C5C004EA55A /* outerSpace_万年历.jpg */,
+				48DB5CB42B491C5C004EA55A /* outerSpace_饿了么.jpg */,
+				48DB5CB52B491C5C004EA55A /* outerSpace_酷我音乐.jpg */,
+				48DB5CB62B491C5C004EA55A /* outerSpace_拼多多.jpg */,
+				48DB5CB72B491C5C004EA55A /* outerSpace_腾讯视频.jpg */,
+				48DB5CB82B491C5C004EA55A /* outerSpace_快手.jpg */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		48DB5CB92B491C5C004EA55A /* OuterSpace2 */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CBA2B491C5C004EA55A /* Slices */,
+				48DB5CC12B491C5C004EA55A /* Icons */,
+			);
+			path = OuterSpace2;
+			sourceTree = "<group>";
+		};
+		48DB5CBA2B491C5C004EA55A /* Slices */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CBB2B491C5C004EA55A /* outerSpace2_1.png */,
+				48DB5CBC2B491C5C004EA55A /* outerSpace2_6476.png */,
+				48DB5CBD2B491C5C004EA55A /* outerSpace2_435.png */,
+				48DB5CBE2B491C5C004EA55A /* outerSpace2_2344.png */,
+				48DB5CBF2B491C5C004EA55A /* outerSpace2_2545234.png */,
+				48DB5CC02B491C5C004EA55A /* outerSpace2_IMG_1274.png */,
+			);
+			path = Slices;
+			sourceTree = "<group>";
+		};
+		48DB5CC12B491C5C004EA55A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CC22B491C5C004EA55A /* outerSpace2_美团.jpg */,
+				48DB5CC32B491C5D004EA55A /* outerSpace2_微博.jpg */,
+				48DB5CC42B491C5D004EA55A /* outerSpace2_QQ音乐.jpg */,
+				48DB5CC52B491C5D004EA55A /* outerSpace2_天猫.jpg */,
+				48DB5CC62B491C5D004EA55A /* outerSpace2_百度地图.jpg */,
+				48DB5CC72B491C5D004EA55A /* outerSpace2_信息.jpg */,
+				48DB5CC82B491C5D004EA55A /* outerSpace2_网易云音乐.jpg */,
+				48DB5CC92B491C5D004EA55A /* outerSpace2_优酷视频.jpg */,
+				48DB5CCA2B491C5D004EA55A /* outerSpace2_剪映.jpg */,
+				48DB5CCB2B491C5D004EA55A /* outerSpace2_探探.jpg */,
+				48DB5CCC2B491C5D004EA55A /* outerSpace2_抖音.jpg */,
+				48DB5CCD2B491C5D004EA55A /* outerSpace2_王者荣耀.jpg */,
+				48DB5CCE2B491C5D004EA55A /* outerSpace2_中国移动.jpg */,
+				48DB5CCF2B491C5D004EA55A /* outerSpace2_钉钉.jpg */,
+				48DB5CD02B491C5D004EA55A /* outerSpace2_虾米音乐.jpg */,
+				48DB5CD12B491C5D004EA55A /* outerSpace2_酷狗音乐.jpg */,
+				48DB5CD22B491C5D004EA55A /* outerSpace2_和平精英.jpg */,
+				48DB5CD32B491C5D004EA55A /* outerSpace2_微信.jpg */,
+				48DB5CD42B491C5D004EA55A /* outerSpace2_小红书.jpg */,
+				48DB5CD52B491C5D004EA55A /* outerSpace2_唯品会.jpg */,
+				48DB5CD62B491C5D004EA55A /* outerSpace2_铁路12306.jpg */,
+				48DB5CD72B491C5D004EA55A /* outerSpace2_快手.jpg */,
+				48DB5CD82B491C5D004EA55A /* outerSpace2_饿了么.jpg */,
+				48DB5CD92B491C5D004EA55A /* outerSpace2_万年历.jpg */,
+				48DB5CDA2B491C5D004EA55A /* outerSpace2_腾讯会议.jpg */,
+				48DB5CDB2B491C5D004EA55A /* outerSpace2_企业微信.jpg */,
+				48DB5CDC2B491C5D004EA55A /* outerSpace2_拼多多.jpg */,
+				48DB5CDD2B491C5D004EA55A /* outerSpace2_今日头条.jpg */,
+				48DB5CDE2B491C5D004EA55A /* outerSpace2_高德地图.jpg */,
+				48DB5CDF2B491C5D004EA55A /* outerSpace2_支付宝.jpg */,
+				48DB5CE02B491C5D004EA55A /* outerSpace2_美图秀秀.jpg */,
+				48DB5CE12B491C5D004EA55A /* outerSpace2_App Store.jpg */,
+				48DB5CE22B491C5D004EA55A /* outerSpace2_墨迹天气.jpg */,
+				48DB5CE32B491C5D004EA55A /* outerSpace2_天天爱消除.jpg */,
+				48DB5CE42B491C5D004EA55A /* outerSpace2_设置.jpg */,
+				48DB5CE52B491C5D004EA55A /* outerSpace2_电话.jpg */,
+				48DB5CE62B491C5D004EA55A /* outerSpace2_嘀嗒出行.jpg */,
+				48DB5CE72B491C5D004EA55A /* outerSpace2_大众点评.jpg */,
+				48DB5CE82B491C5D004EA55A /* outerSpace2_酷我音乐.jpg */,
+				48DB5CE92B491C5D004EA55A /* outerSpace2_淘宝.jpg */,
+				48DB5CEA2B491C5D004EA55A /* outerSpace2_爱奇艺.jpg */,
+				48DB5CEB2B491C5D004EA55A /* outerSpace2_腾讯视频.jpg */,
+				48DB5CEC2B491C5D004EA55A /* outerSpace2_KEEP.jpg */,
+				48DB5CED2B491C5D004EA55A /* outerSpace2_哔哩哔哩.jpg */,
+				48DB5CEE2B491C5D004EA55A /* outerSpace2_腾讯微视.jpg */,
+				48DB5CEF2B491C5D004EA55A /* outerSpace2_京东.jpg */,
+				48DB5CF02B491C5D004EA55A /* outerSpace2_百度.jpg */,
+				48DB5CF12B491C5D004EA55A /* outerSpace2_陌陌.jpg */,
+				48DB5CF22B491C5D004EA55A /* outerSpace2_QQ.jpg */,
+				48DB5CF32B491C5D004EA55A /* outerSpace2_咸鱼.jpg */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		48DB5CF42B491C5D004EA55A /* Rabbit */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CF52B491C5D004EA55A /* Slices */,
+				48DB5CF92B491C5D004EA55A /* Icons */,
+			);
+			path = Rabbit;
+			sourceTree = "<group>";
+		};
+		48DB5CF52B491C5D004EA55A /* Slices */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CF62B491C5D004EA55A /* rabbit_background.png */,
+				48DB5CF72B491C5D004EA55A /* rabbit_IMG_1274.png */,
+				48DB5CF82B491C5D004EA55A /* rabbit_appIcon.png */,
+			);
+			path = Slices;
+			sourceTree = "<group>";
+		};
+		48DB5CF92B491C5D004EA55A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5CFA2B491C5D004EA55A /* rabbit_美团.jpg */,
+				48DB5CFB2B491C5D004EA55A /* rabbit_和平精英.jpg */,
+				48DB5CFC2B491C5D004EA55A /* rabbit_酷狗音乐.jpg */,
+				48DB5CFD2B491C5D004EA55A /* rabbit_网易云音乐.jpg */,
+				48DB5CFE2B491C5D004EA55A /* rabbit_微博.jpg */,
+				48DB5CFF2B491C5D004EA55A /* rabbit_虾米音乐.jpg */,
+				48DB5D002B491C5D004EA55A /* rabbit_天猫.jpg */,
+				48DB5D012B491C5D004EA55A /* rabbit_中国移动.jpg */,
+				48DB5D022B491C5D004EA55A /* rabbit_剪映.jpg */,
+				48DB5D032B491C5D004EA55A /* rabbit_探探.jpg */,
+				48DB5D042B491C5D004EA55A /* rabbit_信息.jpg */,
+				48DB5D052B491C5D004EA55A /* rabbit_抖音.jpg */,
+				48DB5D062B491C5D004EA55A /* rabbit_App Store.jpg */,
+				48DB5D072B491C5D004EA55A /* rabbit_QQ音乐.jpg */,
+				48DB5D082B491C5D004EA55A /* rabbit_唯品会.jpg */,
+				48DB5D092B491C5D004EA55A /* rabbit_钉钉.jpg */,
+				48DB5D0A2B491C5D004EA55A /* rabbit_小红书.jpg */,
+				48DB5D0B2B491C5D004EA55A /* rabbit_微信.jpg */,
+				48DB5D0C2B491C5D004EA55A /* rabbit_王者荣耀.jpg */,
+				48DB5D0D2B491C5D004EA55A /* rabbit_优酷视频.jpg */,
+				48DB5D0E2B491C5D004EA55A /* rabbit_百度地图.jpg */,
+				48DB5D0F2B491C5D004EA55A /* rabbit_嘀嗒出行.jpg */,
+				48DB5D102B491C5D004EA55A /* rabbit_大众点评.jpg */,
+				48DB5D112B491C5D004EA55A /* rabbit_快手.jpg */,
+				48DB5D122B491C5D004EA55A /* rabbit_支付宝.jpg */,
+				48DB5D132B491C5D004EA55A /* rabbit_墨迹天气.jpg */,
+				48DB5D142B491C5D004EA55A /* rabbit_铁路12306.jpg */,
+				48DB5D152B491C5D004EA55A /* rabbit_拼多多.jpg */,
+				48DB5D162B491C5D004EA55A /* rabbit_哔哩哔哩.jpg */,
+				48DB5D172B491C5D004EA55A /* rabbit_KEEP.jpg */,
+				48DB5D182B491C5D004EA55A /* rabbit_腾讯微视.jpg */,
+				48DB5D192B491C5D004EA55A /* rabbit_腾讯视频.jpg */,
+				48DB5D1A2B491C5D004EA55A /* rabbit_酷我音乐.jpg */,
+				48DB5D1B2B491C5D004EA55A /* rabbit_万年历.jpg */,
+				48DB5D1C2B491C5D004EA55A /* rabbit_饿了么.jpg */,
+				48DB5D1D2B491C5D004EA55A /* rabbit_电话.jpg */,
+				48DB5D1E2B491C5D004EA55A /* rabbit_今日头条.jpg */,
+				48DB5D1F2B491C5D004EA55A /* rabbit_高德地图.jpg */,
+				48DB5D202B491C5D004EA55A /* rabbit_企业微信.jpg */,
+				48DB5D212B491C5D004EA55A /* rabbit_设置.jpg */,
+				48DB5D222B491C5D004EA55A /* rabbit_腾讯会议.jpg */,
+				48DB5D232B491C5D004EA55A /* rabbit_爱奇艺.jpg */,
+				48DB5D242B491C5D004EA55A /* rabbit_淘宝.jpg */,
+				48DB5D252B491C5D004EA55A /* rabbit_天天爱消除.jpg */,
+				48DB5D262B491C5D004EA55A /* rabbit_QQ.jpg */,
+				48DB5D272B491C5D004EA55A /* rabbit_咸鱼.jpg */,
+				48DB5D282B491C5D004EA55A /* rabbit_美图秀秀.jpg */,
+				48DB5D292B491C5D004EA55A /* rabbit_百度.jpg */,
+				48DB5D2A2B491C5D004EA55A /* rabbit_陌陌.jpg */,
+				48DB5D2B2B491C5D004EA55A /* rabbit_京东.jpg */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		48DB5D2C2B491C5D004EA55A /* BrownBear */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D2D2B491C5D004EA55A /* Slices */,
+				48DB5D382B491C5D004EA55A /* Icons */,
+			);
+			path = BrownBear;
+			sourceTree = "<group>";
+		};
+		48DB5D2D2B491C5D004EA55A /* Slices */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D2E2B491C5D004EA55A /* brownBear_IMG_2828.jpg */,
+				48DB5D2F2B491C5D004EA55A /* brownBear_IMG_2829.jpg */,
+				48DB5D302B491C5D004EA55A /* brownBear_Group 17.jpg */,
+				48DB5D312B491C5D004EA55A /* brownBear_Group 16.jpg */,
+				48DB5D322B491C5D004EA55A /* brownBear_IMG_2833.jpg */,
+				48DB5D332B491C5D004EA55A /* brownBear_IMG_2832.jpg */,
+				48DB5D342B491C5D004EA55A /* brownBear_IMG_2830.jpg */,
+				48DB5D352B491C5D004EA55A /* brownBear_IMG_2825.jpg */,
+				48DB5D362B491C5D004EA55A /* brownBear_IMG_2831.jpg */,
+				48DB5D372B491C5D004EA55A /* brownBear_IMG_2834.jpg */,
+			);
+			path = Slices;
+			sourceTree = "<group>";
+		};
+		48DB5D382B491C5D004EA55A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D392B491C5D004EA55A /* brownBear_美图秀秀.jpg */,
+				48DB5D3A2B491C5D004EA55A /* brownBear_今日头条.jpg */,
+				48DB5D3B2B491C5D004EA55A /* brownBear_高德地图.jpg */,
+				48DB5D3C2B491C5E004EA55A /* brownBear_快手.jpg */,
+				48DB5D3D2B491C5E004EA55A /* brownBear_爱奇艺.jpg */,
+				48DB5D3E2B491C5E004EA55A /* brownBear_腾讯会议.jpg */,
+				48DB5D3F2B491C5E004EA55A /* brownBear_企业微信.jpg */,
+				48DB5D402B491C5E004EA55A /* brownBear_拼多多.jpg */,
+				48DB5D412B491C5E004EA55A /* brownBear_腾讯视频.jpg */,
+				48DB5D422B491C5E004EA55A /* brownBear_京东.jpg */,
+				48DB5D432B491C5E004EA55A /* brownBear_百度.jpg */,
+				48DB5D442B491C5E004EA55A /* brownBear_陌陌.jpg */,
+				48DB5D452B491C5E004EA55A /* brownBear_QQ.jpg */,
+				48DB5D462B491C5E004EA55A /* brownBear_咸鱼.jpg */,
+				48DB5D472B491C5E004EA55A /* brownBear_App Store.jpg */,
+				48DB5D482B491C5E004EA55A /* brownBear_酷我音乐.jpg */,
+				48DB5D492B491C5E004EA55A /* brownBear_天天爱消除.jpg */,
+				48DB5D4A2B491C5E004EA55A /* brownBear_KEEP.jpg */,
+				48DB5D4B2B491C5E004EA55A /* brownBear_哔哩哔哩.jpg */,
+				48DB5D4C2B491C5E004EA55A /* brownBear_淘宝.jpg */,
+				48DB5D4D2B491C5E004EA55A /* brownBear_腾讯微视.jpg */,
+				48DB5D4E2B491C5E004EA55A /* brownBear_饿了么.jpg */,
+				48DB5D4F2B491C5E004EA55A /* brownBear_万年历.jpg */,
+				48DB5D502B491C5E004EA55A /* brownBear_墨迹天气.jpg */,
+				48DB5D512B491C5E004EA55A /* brownBear_铁路12306.jpg */,
+				48DB5D522B491C5E004EA55A /* brownBear_支付宝.jpg */,
+				48DB5D532B491C5E004EA55A /* brownBear_嘀嗒出行.jpg */,
+				48DB5D542B491C5E004EA55A /* brownBear_设置.jpg */,
+				48DB5D552B491C5E004EA55A /* brownBear_大众点评.jpg */,
+				48DB5D562B491C5E004EA55A /* brownBear_电话.jpg */,
+				48DB5D572B491C5E004EA55A /* brownBear_抖音.jpg */,
+				48DB5D582B491C5E004EA55A /* brownBear_百度地图.jpg */,
+				48DB5D592B491C5E004EA55A /* brownBear_优酷视频.jpg */,
+				48DB5D5A2B491C5E004EA55A /* brownBear_王者荣耀.jpg */,
+				48DB5D5B2B491C5E004EA55A /* brownBear_剪映.jpg */,
+				48DB5D5C2B491C5E004EA55A /* brownBear_探探.jpg */,
+				48DB5D5D2B491C5E004EA55A /* brownBear_微博.jpg */,
+				48DB5D5E2B491C5E004EA55A /* brownBear_天猫.jpg */,
+				48DB5D5F2B491C5E004EA55A /* brownBear_唯品会.jpg */,
+				48DB5D602B491C5E004EA55A /* brownBear_小红书.jpg */,
+				48DB5D612B491C5E004EA55A /* brownBear_QQ音乐.jpg */,
+				48DB5D622B491C5E004EA55A /* brownBear_短信.jpg */,
+				48DB5D632B491C5E004EA55A /* brownBear_网易云音乐.jpg */,
+				48DB5D642B491C5E004EA55A /* brownBear_美团.jpg */,
+				48DB5D652B491C5E004EA55A /* brownBear_虾米音乐.jpg */,
+				48DB5D662B491C5E004EA55A /* brownBear_中国移动.jpg */,
+				48DB5D672B491C5E004EA55A /* brownBear_微信.jpg */,
+				48DB5D682B491C5E004EA55A /* brownBear_和平精英.jpg */,
+				48DB5D692B491C5E004EA55A /* brownBear_钉钉.jpg */,
+				48DB5D6A2B491C5E004EA55A /* brownBear_酷狗音乐.jpg */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		48DB5D6B2B491C5E004EA55A /* JingleCats */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D6C2B491C5E004EA55A /* Slices */,
+				48DB5D782B491C5E004EA55A /* Icons */,
+			);
+			path = JingleCats;
+			sourceTree = "<group>";
+		};
+		48DB5D6C2B491C5E004EA55A /* Slices */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D6D2B491C5E004EA55A /* jingleCats_Group 42.png */,
+				48DB5D6E2B491C5E004EA55A /* jingleCats_Mask.png */,
+				48DB5D6F2B491C5E004EA55A /* jingleCats_IMG_0043.png */,
+				48DB5D702B491C5E004EA55A /* jingleCats_IMG_0045.png */,
+				48DB5D712B491C5E004EA55A /* jingleCats_IMG_0051.png */,
+				48DB5D722B491C5E004EA55A /* jingleCats_IMG_0050.png */,
+				48DB5D732B491C5E004EA55A /* jingleCats_IMG_0044.png */,
+				48DB5D742B491C5E004EA55A /* jingleCats_IMG_0046.png */,
+				48DB5D752B491C5E004EA55A /* jingleCats_IMG_0047.png */,
+				48DB5D762B491C5E004EA55A /* jingleCats_IMG_0049.png */,
+				48DB5D772B491C5E004EA55A /* jingleCats_IMG_0048.png */,
+			);
+			path = Slices;
+			sourceTree = "<group>";
+		};
+		48DB5D782B491C5E004EA55A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				48DB5D792B491C5E004EA55A /* jingleCats_陌陌.jpg */,
+				48DB5D7A2B491C5E004EA55A /* jingleCats_百度.jpg */,
+				48DB5D7B2B491C5E004EA55A /* jingleCats_京东.jpg */,
+				48DB5D7C2B491C5E004EA55A /* jingleCats_支付宝.jpg */,
+				48DB5D7D2B491C5E004EA55A /* jingleCats_咸鱼.jpg */,
+				48DB5D7E2B491C5E004EA55A /* jingleCats_QQ.jpg */,
+				48DB5D7F2B491C5E004EA55A /* jingleCats_App Store.jpg */,
+				48DB5D802B491C5E004EA55A /* jingleCats_美图秀秀.jpg */,
+				48DB5D812B491C5E004EA55A /* jingleCats_淘宝.jpg */,
+				48DB5D822B491C5E004EA55A /* jingleCats_高德地图.jpg */,
+				48DB5D832B491C5E004EA55A /* jingleCats_今日头条.jpg */,
+				48DB5D842B491C5E004EA55A /* jingleCats_腾讯会议.jpg */,
+				48DB5D852B491C5E004EA55A /* jingleCats_万年历.jpg */,
+				48DB5D862B491C5E004EA55A /* jingleCats_饿了么.jpg */,
+				48DB5D872B491C5E004EA55A /* jingleCats_企业微信.jpg */,
+				48DB5D882B491C5E004EA55A /* jingleCats_设置.jpg */,
+				48DB5D892B491C5E004EA55A /* jingleCats_拼多多.jpg */,
+				48DB5D8A2B491C5E004EA55A /* jingleCats_电话.jpg */,
+				48DB5D8B2B491C5E004EA55A /* jingleCats_天天爱消除.jpg */,
+				48DB5D8C2B491C5E004EA55A /* jingleCats_腾讯微视.jpg */,
+				48DB5D8D2B491C5E004EA55A /* jingleCats_哔哩哔哩.jpg */,
+				48DB5D8E2B491C5E004EA55A /* jingleCats_KEEP.jpg */,
+				48DB5D8F2B491C5E004EA55A /* jingleCats_爱奇艺.jpg */,
+				48DB5D902B491C5E004EA55A /* jingleCats_腾讯视频.jpg */,
+				48DB5D912B491C5E004EA55A /* jingleCats_酷我音乐.jpg */,
+				48DB5D922B491C5E004EA55A /* jingleCats_大众点评.jpg */,
+				48DB5D932B491C5E004EA55A /* jingleCats_嘀嗒出行.jpg */,
+				48DB5D942B491C5E004EA55A /* jingleCats_快手.jpg */,
+				48DB5D952B491C5E004EA55A /* jingleCats_墨迹天气.jpg */,
+				48DB5D962B491C5E004EA55A /* jingleCats_王者荣耀.jpg */,
+				48DB5D972B491C5E004EA55A /* jingleCats_百度地图.jpg */,
+				48DB5D982B491C5E004EA55A /* jingleCats_优酷视频.jpg */,
+				48DB5D992B491C5E004EA55A /* jingleCats_网易云音乐.jpg */,
+				48DB5D9A2B491C5E004EA55A /* jingleCats_QQ音乐.jpg */,
+				48DB5D9B2B491C5E004EA55A /* jingleCats_铁路12306.jpg */,
+				48DB5D9C2B491C5E004EA55A /* jingleCats_微信.jpg */,
+				48DB5D9D2B491C5E004EA55A /* jingleCats_钉钉.jpg */,
+				48DB5D9E2B491C5E004EA55A /* jingleCats_抖音.jpg */,
+				48DB5D9F2B491C5E004EA55A /* jingleCats_小红书.jpg */,
+				48DB5DA02B491C5E004EA55A /* jingleCats_信息.jpg */,
+				48DB5DA12B491C5E004EA55A /* jingleCats_唯品会.jpg */,
+				48DB5DA22B491C5E004EA55A /* jingleCats_探探.jpg */,
+				48DB5DA32B491C5E004EA55A /* jingleCats_剪映.jpg */,
+				48DB5DA42B491C5E004EA55A /* jingleCats_和平精英.jpg */,
+				48DB5DA52B491C5E004EA55A /* jingleCats_天猫.jpg */,
+				48DB5DA62B491C5E004EA55A /* jingleCats_酷狗音乐.jpg */,
+				48DB5DA72B491C5E004EA55A /* jingleCats_微博.jpg */,
+				48DB5DA82B491C5E004EA55A /* jingleCats_虾米音乐.jpg */,
+				48DB5DA92B491C5E004EA55A /* jingleCats_美团.jpg */,
+				48DB5DAA2B491C5E004EA55A /* jingleCats_中国移动.jpg */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
 		48E59C4D29C4162D007C03DA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -726,6 +1720,7 @@
 		847A3CD82944D50700D2AA49 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				48DB5C7A2B491C5C004EA55A /* Themes */,
 				48FD7BDD29BD719E00099BBA /* HotWidget.entitlements */,
 				48EB568E29A9B1590092756C /* Info.plist */,
 				847A3CC32944CCE400D2AA49 /* Assets.xcassets */,
@@ -873,17 +1868,306 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48DB5E4A2B491C61004EA55A /* rabbit_腾讯会议.jpg in Resources */,
+				48DB5DBD2B491C60004EA55A /* outerSpace_钉钉.jpg in Resources */,
+				48DB5DC72B491C60004EA55A /* outerSpace_天猫.jpg in Resources */,
+				48DB5E882B491C61004EA55A /* brownBear_网易云音乐.jpg in Resources */,
+				48DB5E372B491C61004EA55A /* rabbit_嘀嗒出行.jpg in Resources */,
+				48DB5E992B491C61004EA55A /* jingleCats_IMG_0049.png in Resources */,
+				48DB5DD02B491C60004EA55A /* outerSpace_京东.jpg in Resources */,
+				48DB5DC92B491C60004EA55A /* outerSpace_美团.jpg in Resources */,
+				48DB5E212B491C61004EA55A /* rabbit_appIcon.png in Resources */,
+				48DB5DEA2B491C61004EA55A /* outerSpace2_2344.png in Resources */,
+				48DB5DC82B491C60004EA55A /* outerSpace_微博.jpg in Resources */,
+				48DB5E0F2B491C61004EA55A /* outerSpace2_设置.jpg in Resources */,
+				48DB5E6E2B491C61004EA55A /* brownBear_天天爱消除.jpg in Resources */,
+				48DB5EB12B491C61004EA55A /* jingleCats_爱奇艺.jpg in Resources */,
+				48DB5DC12B491C60004EA55A /* outerSpace_和平精英.jpg in Resources */,
+				48DB5DB72B491C60004EA55A /* outerSpace_铁路12306.jpg in Resources */,
+				48DB5E6A2B491C61004EA55A /* brownBear_QQ.jpg in Resources */,
+				48DB5DE92B491C61004EA55A /* outerSpace2_435.png in Resources */,
+				48DB5EC72B491C61004EA55A /* jingleCats_天猫.jpg in Resources */,
+				48DB5DE42B491C61004EA55A /* outerSpace_拼多多.jpg in Resources */,
+				48DB5E662B491C61004EA55A /* brownBear_腾讯视频.jpg in Resources */,
+				48DB5E7B2B491C61004EA55A /* brownBear_电话.jpg in Resources */,
+				48DB5DBA2B491C60004EA55A /* outerSpace_王者荣耀.jpg in Resources */,
+				48DB5DF62B491C61004EA55A /* outerSpace2_探探.jpg in Resources */,
+				48DB5EB62B491C61004EA55A /* jingleCats_快手.jpg in Resources */,
+				48DB5DC62B491C60004EA55A /* outerSpace_虾米音乐.jpg in Resources */,
+				48DB5E7C2B491C61004EA55A /* brownBear_抖音.jpg in Resources */,
+				48DB5EBC2B491C61004EA55A /* jingleCats_QQ音乐.jpg in Resources */,
+				48DB5DEF2B491C61004EA55A /* outerSpace2_QQ音乐.jpg in Resources */,
+				48DB5DC42B491C60004EA55A /* outerSpace_剪映.jpg in Resources */,
+				48DB5E252B491C61004EA55A /* rabbit_网易云音乐.jpg in Resources */,
+				48DB5DD22B491C60004EA55A /* outerSpace_今日头条.jpg in Resources */,
+				48DB5DE62B491C61004EA55A /* outerSpace_快手.jpg in Resources */,
+				48DB5E152B491C61004EA55A /* outerSpace2_爱奇艺.jpg in Resources */,
+				48DB5E192B491C61004EA55A /* outerSpace2_腾讯微视.jpg in Resources */,
+				48DB5DC02B491C60004EA55A /* outerSpace_抖音.jpg in Resources */,
+				48DB5E702B491C61004EA55A /* brownBear_哔哩哔哩.jpg in Resources */,
+				48DB5EB32B491C61004EA55A /* jingleCats_酷我音乐.jpg in Resources */,
+				48DB5EB52B491C61004EA55A /* jingleCats_嘀嗒出行.jpg in Resources */,
 				4877868529C9A9F60046A149 /* TestJson2 in Resources */,
+				48DB5DB42B491C60004EA55A /* outerSpace_5fb97fe0d5ef37308b277a6aeaf0654e.jpeg in Resources */,
+				48DB5E312B491C61004EA55A /* rabbit_钉钉.jpg in Resources */,
+				48DB5DF32B491C61004EA55A /* outerSpace2_网易云音乐.jpg in Resources */,
+				48DB5E8A2B491C61004EA55A /* brownBear_虾米音乐.jpg in Resources */,
+				48DB5E732B491C61004EA55A /* brownBear_饿了么.jpg in Resources */,
+				48DB5E8F2B491C61004EA55A /* brownBear_酷狗音乐.jpg in Resources */,
+				48DB5DB52B491C60004EA55A /* outerSpace_小红书.jpg in Resources */,
+				48DB5E2D2B491C61004EA55A /* rabbit_抖音.jpg in Resources */,
+				48DB5EB42B491C61004EA55A /* jingleCats_大众点评.jpg in Resources */,
+				48DB5DFE2B491C61004EA55A /* outerSpace2_微信.jpg in Resources */,
+				48DB5E842B491C61004EA55A /* brownBear_唯品会.jpg in Resources */,
+				48DB5E642B491C61004EA55A /* brownBear_企业微信.jpg in Resources */,
+				48DB5DD72B491C61004EA55A /* outerSpace_电话.jpg in Resources */,
+				48DB5E812B491C61004EA55A /* brownBear_探探.jpg in Resources */,
+				48DB5E002B491C61004EA55A /* outerSpace2_唯品会.jpg in Resources */,
+				48DB5EA62B491C61004EA55A /* jingleCats_腾讯会议.jpg in Resources */,
+				48DB5E802B491C61004EA55A /* brownBear_剪映.jpg in Resources */,
+				48DB5E902B491C61004EA55A /* jingleCats_Group 42.png in Resources */,
+				48DB5E222B491C61004EA55A /* rabbit_美团.jpg in Resources */,
+				48DB5E332B491C61004EA55A /* rabbit_微信.jpg in Resources */,
+				48DB5E712B491C61004EA55A /* brownBear_淘宝.jpg in Resources */,
+				48DB5E242B491C61004EA55A /* rabbit_酷狗音乐.jpg in Resources */,
+				48DB5E3A2B491C61004EA55A /* rabbit_支付宝.jpg in Resources */,
+				48DB5E9A2B491C61004EA55A /* jingleCats_IMG_0048.png in Resources */,
+				48DB5E492B491C61004EA55A /* rabbit_设置.jpg in Resources */,
+				48DB5E382B491C61004EA55A /* rabbit_大众点评.jpg in Resources */,
+				48DB5EC12B491C61004EA55A /* jingleCats_小红书.jpg in Resources */,
+				48DB5DF72B491C61004EA55A /* outerSpace2_抖音.jpg in Resources */,
+				48DB5EBB2B491C61004EA55A /* jingleCats_网易云音乐.jpg in Resources */,
+				48DB5E772B491C61004EA55A /* brownBear_支付宝.jpg in Resources */,
+				48DB5E8B2B491C61004EA55A /* brownBear_中国移动.jpg in Resources */,
+				48DB5EA52B491C61004EA55A /* jingleCats_今日头条.jpg in Resources */,
+				48DB5E032B491C61004EA55A /* outerSpace2_饿了么.jpg in Resources */,
+				48DB5E4D2B491C61004EA55A /* rabbit_天天爱消除.jpg in Resources */,
+				48DB5E952B491C61004EA55A /* jingleCats_IMG_0050.png in Resources */,
+				48DB5E082B491C61004EA55A /* outerSpace2_今日头条.jpg in Resources */,
+				48DB5E052B491C61004EA55A /* outerSpace2_腾讯会议.jpg in Resources */,
+				48DB5E3B2B491C61004EA55A /* rabbit_墨迹天气.jpg in Resources */,
+				48DB5DD42B491C60004EA55A /* outerSpace_淘宝.jpg in Resources */,
+				48DB5E9B2B491C61004EA55A /* jingleCats_陌陌.jpg in Resources */,
+				48DB5DF92B491C61004EA55A /* outerSpace2_中国移动.jpg in Resources */,
 				480C95872A1C7C1A00C846C8 /* jpg2.jpg in Resources */,
+				48DB5E352B491C61004EA55A /* rabbit_优酷视频.jpg in Resources */,
+				48DB5DD92B491C61004EA55A /* outerSpace_支付宝.jpg in Resources */,
+				48DB5E142B491C61004EA55A /* outerSpace2_淘宝.jpg in Resources */,
+				48DB5DB82B491C60004EA55A /* outerSpace_唯品会.jpg in Resources */,
+				48DB5DBE2B491C60004EA55A /* outerSpace_天天爱消除.jpg in Resources */,
+				48DB5E482B491C61004EA55A /* rabbit_企业微信.jpg in Resources */,
+				48DB5DC52B491C60004EA55A /* outerSpace_信息.jpg in Resources */,
+				48DB5DB02B491C60004EA55A /* outerSpace_fb586a5e46de901b6164efa9e70bab4d.jpeg in Resources */,
+				48DB5EA22B491C61004EA55A /* jingleCats_美图秀秀.jpg in Resources */,
+				48DB5E1E2B491C61004EA55A /* outerSpace2_咸鱼.jpg in Resources */,
+				48DB5E4F2B491C61004EA55A /* rabbit_咸鱼.jpg in Resources */,
+				48DB5DD82B491C61004EA55A /* outerSpace_设置.jpg in Resources */,
+				48DB5E552B491C61004EA55A /* brownBear_IMG_2829.jpg in Resources */,
+				48DB5DDA2B491C61004EA55A /* outerSpace_嘀嗒出行.jpg in Resources */,
+				48DB5E392B491C61004EA55A /* rabbit_快手.jpg in Resources */,
+				48DB5E6B2B491C61004EA55A /* brownBear_咸鱼.jpg in Resources */,
+				48DB5EA82B491C61004EA55A /* jingleCats_饿了么.jpg in Resources */,
+				48DB5E1A2B491C61004EA55A /* outerSpace2_京东.jpg in Resources */,
+				48DB5E2F2B491C61004EA55A /* rabbit_QQ音乐.jpg in Resources */,
+				48DB5EA72B491C61004EA55A /* jingleCats_万年历.jpg in Resources */,
+				48DB5DB32B491C60004EA55A /* outerSpace_d55742a654da14c6cfef0693d410c634.jpeg in Resources */,
+				48DB5E582B491C61004EA55A /* brownBear_IMG_2833.jpg in Resources */,
+				48DB5E8D2B491C61004EA55A /* brownBear_和平精英.jpg in Resources */,
+				48DB5E972B491C61004EA55A /* jingleCats_IMG_0046.png in Resources */,
+				48DB5E7E2B491C61004EA55A /* brownBear_优酷视频.jpg in Resources */,
+				48DB5EAE2B491C61004EA55A /* jingleCats_腾讯微视.jpg in Resources */,
+				48DB5E232B491C61004EA55A /* rabbit_和平精英.jpg in Resources */,
+				48DB5EC32B491C61004EA55A /* jingleCats_唯品会.jpg in Resources */,
+				48DB5EC82B491C61004EA55A /* jingleCats_酷狗音乐.jpg in Resources */,
+				48DB5ECA2B491C61004EA55A /* jingleCats_虾米音乐.jpg in Resources */,
+				48DB5E6F2B491C61004EA55A /* brownBear_KEEP.jpg in Resources */,
+				48DB5E5C2B491C61004EA55A /* brownBear_IMG_2831.jpg in Resources */,
+				48DB5E5B2B491C61004EA55A /* brownBear_IMG_2825.jpg in Resources */,
+				48DB5E1C2B491C61004EA55A /* outerSpace2_陌陌.jpg in Resources */,
+				48DB5E112B491C61004EA55A /* outerSpace2_嘀嗒出行.jpg in Resources */,
+				48DB5DF82B491C61004EA55A /* outerSpace2_王者荣耀.jpg in Resources */,
+				48DB5E932B491C61004EA55A /* jingleCats_IMG_0045.png in Resources */,
+				48DB5E3C2B491C61004EA55A /* rabbit_铁路12306.jpg in Resources */,
 				480C95892A1C7C2F00C846C8 /* jpg3.jpg in Resources */,
+				48DB5EBE2B491C61004EA55A /* jingleCats_微信.jpg in Resources */,
+				48DB5E982B491C61004EA55A /* jingleCats_IMG_0047.png in Resources */,
+				48DB5DDE2B491C61004EA55A /* outerSpace_App Store.jpg in Resources */,
+				48DB5DF52B491C61004EA55A /* outerSpace2_剪映.jpg in Resources */,
+				48DB5E2E2B491C61004EA55A /* rabbit_App Store.jpg in Resources */,
+				48DB5E0A2B491C61004EA55A /* outerSpace2_支付宝.jpg in Resources */,
+				48DB5DE52B491C61004EA55A /* outerSpace_腾讯视频.jpg in Resources */,
+				48DB5E782B491C61004EA55A /* brownBear_嘀嗒出行.jpg in Resources */,
+				48DB5E362B491C61004EA55A /* rabbit_百度地图.jpg in Resources */,
+				48DB5E3F2B491C61004EA55A /* rabbit_KEEP.jpg in Resources */,
+				48DB5E122B491C61004EA55A /* outerSpace2_大众点评.jpg in Resources */,
+				48DB5E102B491C61004EA55A /* outerSpace2_电话.jpg in Resources */,
+				48DB5E872B491C61004EA55A /* brownBear_短信.jpg in Resources */,
+				48DB5E922B491C61004EA55A /* jingleCats_IMG_0043.png in Resources */,
+				48DB5E512B491C61004EA55A /* rabbit_百度.jpg in Resources */,
+				48DB5E742B491C61004EA55A /* brownBear_万年历.jpg in Resources */,
+				48DB5DBC2B491C60004EA55A /* outerSpace_百度地图.jpg in Resources */,
+				48DB5DE02B491C61004EA55A /* outerSpace_腾讯微视.jpg in Resources */,
+				48DB5E2A2B491C61004EA55A /* rabbit_剪映.jpg in Resources */,
+				48DB5DF42B491C61004EA55A /* outerSpace2_优酷视频.jpg in Resources */,
+				48DB5E762B491C61004EA55A /* brownBear_铁路12306.jpg in Resources */,
+				48DB5E592B491C61004EA55A /* brownBear_IMG_2832.jpg in Resources */,
+				48DB5DD62B491C61004EA55A /* outerSpace_美图秀秀.jpg in Resources */,
+				48DB5DDB2B491C61004EA55A /* outerSpace_大众点评.jpg in Resources */,
+				48DB5EC02B491C61004EA55A /* jingleCats_抖音.jpg in Resources */,
+				48DB5EBA2B491C61004EA55A /* jingleCats_优酷视频.jpg in Resources */,
+				48DB5E612B491C61004EA55A /* brownBear_快手.jpg in Resources */,
+				48DB5DD52B491C61004EA55A /* outerSpace_网易云音乐.jpg in Resources */,
+				48DB5E892B491C61004EA55A /* brownBear_美团.jpg in Resources */,
+				48DB5DAF2B491C60004EA55A /* outerSpace_a90091499d6f348955e655f43997633a.jpeg in Resources */,
+				48DB5DE22B491C61004EA55A /* outerSpace_饿了么.jpg in Resources */,
+				48DB5E562B491C61004EA55A /* brownBear_Group 17.jpg in Resources */,
+				48DB5DBF2B491C60004EA55A /* outerSpace_酷狗音乐.jpg in Resources */,
+				48DB5EA02B491C61004EA55A /* jingleCats_QQ.jpg in Resources */,
 				48FD7BB129BABC9F00099BBA /* testHomeJson in Resources */,
+				48DB5E8C2B491C61004EA55A /* brownBear_微信.jpg in Resources */,
+				48DB5DCA2B491C60004EA55A /* outerSpace_企业微信.jpg in Resources */,
+				48DB5E162B491C61004EA55A /* outerSpace2_腾讯视频.jpg in Resources */,
+				48DB5E9F2B491C61004EA55A /* jingleCats_咸鱼.jpg in Resources */,
+				48DB5DD32B491C60004EA55A /* outerSpace_高德地图.jpg in Resources */,
+				48DB5E6D2B491C61004EA55A /* brownBear_酷我音乐.jpg in Resources */,
+				48DB5EC42B491C61004EA55A /* jingleCats_探探.jpg in Resources */,
+				48DB5DF22B491C61004EA55A /* outerSpace2_信息.jpg in Resources */,
+				48DB5E062B491C61004EA55A /* outerSpace2_企业微信.jpg in Resources */,
 				48E59C5529C6BEED007C03DA /* ReSouDefaultData in Resources */,
+				48DB5DEC2B491C61004EA55A /* outerSpace2_IMG_1274.png in Resources */,
+				48DB5E532B491C61004EA55A /* rabbit_京东.jpg in Resources */,
+				48DB5E272B491C61004EA55A /* rabbit_虾米音乐.jpg in Resources */,
+				48DB5DAE2B491C60004EA55A /* outerSpace_faaf8c01951fb35ed5743f3ede785bfc.jpeg in Resources */,
+				48DB5E262B491C61004EA55A /* rabbit_微博.jpg in Resources */,
 				48BBC2342A6B971000D913F7 /* widgetList.json in Resources */,
+				48DB5E442B491C61004EA55A /* rabbit_饿了么.jpg in Resources */,
+				48DB5E792B491C61004EA55A /* brownBear_设置.jpg in Resources */,
+				48DB5E022B491C61004EA55A /* outerSpace2_快手.jpg in Resources */,
+				48DB5DCE2B491C60004EA55A /* outerSpace_陌陌.jpg in Resources */,
+				48DB5E682B491C61004EA55A /* brownBear_百度.jpg in Resources */,
+				48DB5EA32B491C61004EA55A /* jingleCats_淘宝.jpg in Resources */,
+				48DB5E832B491C61004EA55A /* brownBear_天猫.jpg in Resources */,
+				48DB5DC22B491C60004EA55A /* outerSpace_中国移动.jpg in Resources */,
+				48DB5E7A2B491C61004EA55A /* brownBear_大众点评.jpg in Resources */,
+				48DB5E622B491C61004EA55A /* brownBear_爱奇艺.jpg in Resources */,
+				48DB5E4C2B491C61004EA55A /* rabbit_淘宝.jpg in Resources */,
+				48DB5DD12B491C60004EA55A /* outerSpace_爱奇艺.jpg in Resources */,
+				48DB5E7F2B491C61004EA55A /* brownBear_王者荣耀.jpg in Resources */,
+				48DB5E302B491C61004EA55A /* rabbit_唯品会.jpg in Resources */,
+				48DB5DDC2B491C61004EA55A /* outerSpace_墨迹天气.jpg in Resources */,
+				48DB5E452B491C61004EA55A /* rabbit_电话.jpg in Resources */,
 				480C95852A1C75D600C846C8 /* jpg1.jpg in Resources */,
+				48DB5E4E2B491C61004EA55A /* rabbit_QQ.jpg in Resources */,
+				48DB5DE82B491C61004EA55A /* outerSpace2_6476.png in Resources */,
+				48DB5E572B491C61004EA55A /* brownBear_Group 16.jpg in Resources */,
+				48DB5EA92B491C61004EA55A /* jingleCats_企业微信.jpg in Resources */,
+				48DB5E342B491C61004EA55A /* rabbit_王者荣耀.jpg in Resources */,
+				48DB5DAD2B491C60004EA55A /* outerSpace_95b630f68d59ce970dfca89d86470fe1.jpeg in Resources */,
+				48DB5DE12B491C61004EA55A /* outerSpace_万年历.jpg in Resources */,
+				48DB5EC62B491C61004EA55A /* jingleCats_和平精英.jpg in Resources */,
+				48DB5EAD2B491C61004EA55A /* jingleCats_天天爱消除.jpg in Resources */,
+				48DB5E5F2B491C61004EA55A /* brownBear_今日头条.jpg in Resources */,
+				48DB5DE72B491C61004EA55A /* outerSpace2_1.png in Resources */,
+				48DB5E962B491C61004EA55A /* jingleCats_IMG_0044.png in Resources */,
+				48DB5EC22B491C61004EA55A /* jingleCats_信息.jpg in Resources */,
+				48DB5E412B491C61004EA55A /* rabbit_腾讯视频.jpg in Resources */,
+				48DB5E5E2B491C61004EA55A /* brownBear_美图秀秀.jpg in Resources */,
+				48DB5E182B491C61004EA55A /* outerSpace2_哔哩哔哩.jpg in Resources */,
+				48DB5E542B491C61004EA55A /* brownBear_IMG_2828.jpg in Resources */,
+				48DB5E852B491C61004EA55A /* brownBear_小红书.jpg in Resources */,
 				48E59C4929C41190007C03DA /* Assets.xcassets in Resources */,
+				48DB5EC52B491C61004EA55A /* jingleCats_剪映.jpg in Resources */,
+				48DB5DC32B491C60004EA55A /* outerSpace_探探.jpg in Resources */,
 				48E59C4A29C4119C007C03DA /* Preview Assets.xcassets in Resources */,
+				48DB5E132B491C61004EA55A /* outerSpace2_酷我音乐.jpg in Resources */,
+				48DB5E942B491C61004EA55A /* jingleCats_IMG_0051.png in Resources */,
+				48DB5EB22B491C61004EA55A /* jingleCats_腾讯视频.jpg in Resources */,
+				48DB5E0B2B491C61004EA55A /* outerSpace2_美图秀秀.jpg in Resources */,
+				48DB5DE32B491C61004EA55A /* outerSpace_酷我音乐.jpg in Resources */,
+				48DB5DB22B491C60004EA55A /* outerSpace_壁纸.jpg in Resources */,
+				48DB5DF12B491C61004EA55A /* outerSpace2_百度地图.jpg in Resources */,
+				48DB5E1F2B491C61004EA55A /* rabbit_background.png in Resources */,
+				48DB5E822B491C61004EA55A /* brownBear_微博.jpg in Resources */,
+				48DB5E3D2B491C61004EA55A /* rabbit_拼多多.jpg in Resources */,
+				48DB5E9E2B491C61004EA55A /* jingleCats_支付宝.jpg in Resources */,
+				48DB5ECC2B491C61004EA55A /* jingleCats_中国移动.jpg in Resources */,
+				48DB5EBF2B491C61004EA55A /* jingleCats_钉钉.jpg in Resources */,
+				48DB5EB02B491C61004EA55A /* jingleCats_KEEP.jpg in Resources */,
+				48DB5EAB2B491C61004EA55A /* jingleCats_拼多多.jpg in Resources */,
+				48DB5DCB2B491C60004EA55A /* outerSpace_咸鱼.jpg in Resources */,
+				48DB5DED2B491C61004EA55A /* outerSpace2_美团.jpg in Resources */,
+				48DB5E462B491C61004EA55A /* rabbit_今日头条.jpg in Resources */,
+				48DB5EC92B491C61004EA55A /* jingleCats_微博.jpg in Resources */,
+				48DB5DF02B491C61004EA55A /* outerSpace2_天猫.jpg in Resources */,
+				48DB5E6C2B491C61004EA55A /* brownBear_App Store.jpg in Resources */,
+				48DB5DFB2B491C61004EA55A /* outerSpace2_虾米音乐.jpg in Resources */,
+				48DB5E672B491C61004EA55A /* brownBear_京东.jpg in Resources */,
+				48DB5E202B491C61004EA55A /* rabbit_IMG_1274.png in Resources */,
+				48DB5E0D2B491C61004EA55A /* outerSpace2_墨迹天气.jpg in Resources */,
+				48DB5ECB2B491C61004EA55A /* jingleCats_美团.jpg in Resources */,
+				48DB5E4B2B491C61004EA55A /* rabbit_爱奇艺.jpg in Resources */,
+				48DB5DCC2B491C60004EA55A /* outerSpace_QQ.jpg in Resources */,
+				48DB5E422B491C61004EA55A /* rabbit_酷我音乐.jpg in Resources */,
+				48DB5EAC2B491C61004EA55A /* jingleCats_电话.jpg in Resources */,
+				48DB5EBD2B491C61004EA55A /* jingleCats_铁路12306.jpg in Resources */,
+				48DB5DEE2B491C61004EA55A /* outerSpace2_微博.jpg in Resources */,
+				48DB5E912B491C61004EA55A /* jingleCats_Mask.png in Resources */,
+				48DB5DCF2B491C60004EA55A /* outerSpace_百度.jpg in Resources */,
+				48DB5DDD2B491C61004EA55A /* outerSpace_哔哩哔哩.jpg in Resources */,
+				48DB5E072B491C61004EA55A /* outerSpace2_拼多多.jpg in Resources */,
+				48DB5DFC2B491C61004EA55A /* outerSpace2_酷狗音乐.jpg in Resources */,
+				48DB5DFA2B491C61004EA55A /* outerSpace2_钉钉.jpg in Resources */,
+				48DB5E012B491C61004EA55A /* outerSpace2_铁路12306.jpg in Resources */,
+				48DB5EB72B491C61004EA55A /* jingleCats_墨迹天气.jpg in Resources */,
+				48DB5DDF2B491C61004EA55A /* outerSpace_KEEP.jpg in Resources */,
+				48DB5E0E2B491C61004EA55A /* outerSpace2_天天爱消除.jpg in Resources */,
+				48DB5E092B491C61004EA55A /* outerSpace2_高德地图.jpg in Resources */,
+				48DB5DB62B491C60004EA55A /* outerSpace_QQ音乐.jpg in Resources */,
+				48DB5E2B2B491C61004EA55A /* rabbit_探探.jpg in Resources */,
+				48DB5E322B491C61004EA55A /* rabbit_小红书.jpg in Resources */,
+				48DB5DFD2B491C61004EA55A /* outerSpace2_和平精英.jpg in Resources */,
 				480C958B2A1C7C4200C846C8 /* jpg4.jpg in Resources */,
+				48DB5DAC2B491C60004EA55A /* outerSpace_5c824c7487b44429f3c4f05daf609c0d.jpeg in Resources */,
+				48DB5E282B491C61004EA55A /* rabbit_天猫.jpg in Resources */,
+				48DB5E722B491C61004EA55A /* brownBear_腾讯微视.jpg in Resources */,
+				48DB5E8E2B491C61004EA55A /* brownBear_钉钉.jpg in Resources */,
+				48DB5E502B491C61004EA55A /* rabbit_美图秀秀.jpg in Resources */,
+				48DB5E9C2B491C61004EA55A /* jingleCats_百度.jpg in Resources */,
+				48DB5E692B491C61004EA55A /* brownBear_陌陌.jpg in Resources */,
+				48DB5E472B491C61004EA55A /* rabbit_高德地图.jpg in Resources */,
+				48DB5DBB2B491C60004EA55A /* outerSpace_优酷视频.jpg in Resources */,
+				48DB5DEB2B491C61004EA55A /* outerSpace2_2545234.png in Resources */,
+				48DB5E432B491C61004EA55A /* rabbit_万年历.jpg in Resources */,
+				48DB5E652B491C61004EA55A /* brownBear_拼多多.jpg in Resources */,
+				48DB5E7D2B491C61004EA55A /* brownBear_百度地图.jpg in Resources */,
+				48DB5E5D2B491C61004EA55A /* brownBear_IMG_2834.jpg in Resources */,
+				48DB5E402B491C61004EA55A /* rabbit_腾讯微视.jpg in Resources */,
+				48DB5DFF2B491C61004EA55A /* outerSpace2_小红书.jpg in Resources */,
+				48DB5E522B491C61004EA55A /* rabbit_陌陌.jpg in Resources */,
+				48DB5E1D2B491C61004EA55A /* outerSpace2_QQ.jpg in Resources */,
+				48DB5E9D2B491C61004EA55A /* jingleCats_京东.jpg in Resources */,
+				48DB5E292B491C61004EA55A /* rabbit_中国移动.jpg in Resources */,
+				48DB5E862B491C61004EA55A /* brownBear_QQ音乐.jpg in Resources */,
+				48DB5E632B491C61004EA55A /* brownBear_腾讯会议.jpg in Resources */,
+				48DB5E0C2B491C61004EA55A /* outerSpace2_App Store.jpg in Resources */,
+				48DB5E1B2B491C61004EA55A /* outerSpace2_百度.jpg in Resources */,
+				48DB5EB82B491C61004EA55A /* jingleCats_王者荣耀.jpg in Resources */,
 				48818BD02AC896A0009FFCE9 /* adc.json in Resources */,
+				48DB5DB12B491C60004EA55A /* outerSpace_9ba1a896883f5c31c03e5351a17c5209.jpeg in Resources */,
+				48DB5E752B491C61004EA55A /* brownBear_墨迹天气.jpg in Resources */,
+				48DB5EA12B491C61004EA55A /* jingleCats_App Store.jpg in Resources */,
+				48DB5E5A2B491C61004EA55A /* brownBear_IMG_2830.jpg in Resources */,
+				48DB5E2C2B491C61004EA55A /* rabbit_信息.jpg in Resources */,
+				48DB5EB92B491C61004EA55A /* jingleCats_百度地图.jpg in Resources */,
+				48DB5EAF2B491C61004EA55A /* jingleCats_哔哩哔哩.jpg in Resources */,
+				48DB5DCD2B491C60004EA55A /* outerSpace_腾讯会议.jpg in Resources */,
+				48DB5DB92B491C60004EA55A /* outerSpace_微信.jpg in Resources */,
+				48DB5E172B491C61004EA55A /* outerSpace2_KEEP.jpg in Resources */,
+				48DB5E042B491C61004EA55A /* outerSpace2_万年历.jpg in Resources */,
+				48DB5E3E2B491C61004EA55A /* rabbit_哔哩哔哩.jpg in Resources */,
+				48DB5EA42B491C61004EA55A /* jingleCats_高德地图.jpg in Resources */,
+				48DB5E602B491C61004EA55A /* brownBear_高德地图.jpg in Resources */,
+				48DB5EAA2B491C61004EA55A /* jingleCats_设置.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

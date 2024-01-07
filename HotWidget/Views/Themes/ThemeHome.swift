@@ -12,7 +12,7 @@ struct ThemeHome: View {
     
     var body: some View {
 //        NavigationView {
-            ScrollView {
+            ScrollView(showsIndicators: false) {
                 LazyVStack(spacing: 15) {
                     ForEach(images, id: \.self) { image in
                         if let image = image {
